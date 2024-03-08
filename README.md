@@ -5,7 +5,7 @@ Please refer to the sections below and follow the links to view whatever code or
 
 ## Project Full Stack: 
 - Vue 
-- balsamiq 
+- balsamiq & figma
 - javascript 
 - visual studio code 
 - css/html
