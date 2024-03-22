@@ -36,9 +36,64 @@
 
     "moonMonths": [
         {
-            "month": "",
-            "moon": "",
-            "description": ""
+            "month": "January",
+            "moon": "Wolf Moon",
+            "description": "The January Full Moon is often called the Wolf Moon from the howling of hungry wolves in the winter. This name is thought to have a Celtic and Old English origin, and that European settlers brought it to North America. Other Celtic names include Stay Home Moon and Quiet Moon. Moon After Yule is an Anglo-Saxon version, referring to the pre-Christian Yule (or Juul) celebrations around the winter solstice. Native American names are Severe Moon and Center Moon."
+        },
+        {
+            "month": "February",
+            "moon": "Snow Moon",
+            "description": "The Snow Moon in February is aptly named after abundant snowfall. Some North American tribes called it the Hungry Moon due to the scarce food sources during mid-winter, while others named it Bear Moon to refer to when bear cubs are born. Storm Moon, Ice Moon, and Snow Moon were common Celtic and Old English names."
+        },
+        {
+            "month": "March",
+            "moon": "Worm Moon",
+            "description": "The last Full Moon of the winter season in March is the Worm Moon because of the earthworms that come out when the soil warms up. Native American tribes called it the Crow Moon for the crows coming back, Snow Crust Moon, and Sap and Sugar Moon for when the maple sap runs. The Anglo-Saxons called it Lenten Moon after the Germanic Lenten for spring. The Celts called it the Wind Moon and Plough Moon. In Old English, it was known as the Death Moon and the Chaste Moon referring to the purity of the spring season."
+        },
+        {
+            "month": "April",
+            "moon": "Pink Moon",
+            "description": "April has the Full Pink Moon, from the pink phlox wildflowers that bloom in North America in the early spring. The Native American names referred to the spring thaws and the return of growth, including Breaking Ice Moon and The Moon of the Red Grass Appearing. Common names in Europe also referred to the budding and birth of spring: The Anglo-Saxons called it Egg Moon, the Celts had names like Budding Moon, New Shoots Moon, Seed Moon, and Growing Moon. A Neo-Pagan name is Awakening Moon."
+        },
+        {
+            "month": "May",
+            "moon": "Flower Moon",
+            "description": "The Full Flower Moon in May describes all the flowers blooming in spring. Native Americans called it Budding Moon, Egg Laying Moon, and Planting Moon. The Anglo-Saxon name is Milk Moon, while the Celtic and Old English names are Mothers’ Moon, Bright Moon, Hare Moon, and Grass Moon."
+        },
+        {
+            "month": "June",
+            "moon": "Strawberry Moon",
+            "description": "June’s Full Moon is the Strawberry Moon as the little red berries ripen at this time and could be gathered by the Native American tribes. Other native names are Berries Ripen Moon, Green Corn Moon, and Hot Moon. The Celtic names are Mead Moon, Horse Moon, Dyan Moon, and Rose Moon. Other English names are Flower Moon and Planting Moon."
+        },
+        {
+            "month": "July",
+            "moon": "Buck Moon",
+            "description": "In July, the Full Moon is called Buck Moon to signify the new antlers that emerge on deer buck’s foreheads around this time. Other Native American tribes call it Salmon Moon, Raspberry Moon, and Thunder Moon. In Celtic, this Moon was known as the Claiming Moon, Wyrt Moon, Herb Moon, and Mead Moon. The Anglo-Saxons called it the Hay Moon."
+        },
+        {
+            "month": "August",
+            "moon": "Sturgeon Moon",
+            "description": "August has the Full Sturgeon Moon because of the large numbers of lake sturgeon in the Great Lakes and Lake Champlain. The fish was essential for Native American tribes in the area. The Celts called it Dispute Moon and Lynx Moon, and the Anglo-Saxons the Grain Moon. Other English names include Corn Moon and Lightning Moon."
+        },
+        {
+            "month": "September",
+            "moon": "Harvest Moon or Corn Moon",
+            "description": "Technically, the Harvest Moon is the Full Moon closest to the September equinox around September 22. The Harvest Moon is the only Full Moon name determined by the equinox rather than a month. Most years, it’s in September, but around every three years, it falls in October. In September, the Full Moon is the Corn Moon from the Native American tribes harvesting their corn. It can also be the Harvest Moon, which corresponds with the Anglo-Saxon name, while Celtic and Old English names are Wine Moon, Song Moon, and Barley Moon."
+        },
+        {
+            "month": "October",
+            "moon": "Hunter's Moon or Harvest Moon",
+            "description": "Traditionally, people in the Northern Hemisphere spent October preparing for the coming winter by hunting, slaughtering, and preserving meats, giving it its Anglo-Saxon name Hunter’s Moon. Every three years, the Hunter’s Moon is the Harvest Moon. Native Americans named this Full Moon after fall, including Drying Rice Moon, Falling Leaves Moon, and Freezing Moon. The Celts used Seed Fall Moon to describe this. Also, the Pagan Blood Moon or Sanguine Moon is used for this Full Moon. However, this should not be confused with a total lunar eclipse, a Blood Moon."
+        },
+        {
+            "month": "November",
+            "moon": "Beaver Moon",
+            "description": "The Full Moon in November is named after beavers who can be seen preparing for the winter. Native Americans also called it the Frost Moon and Freezing Moon. In Celtic tradition, it is also called the Mourning Moon and the Darkest Depths Moon."
+        },
+        {
+            "month": "December",
+            "moon": "Cold Moon",
+            "description": "In December, winter begins for most people in the Northern Hemisphere. The December Full Moon is called the Cold Moon. The Old English and Anglo-Saxon names are the Moon Before Yule or the Long Night Moon, referring to the longest night of the year in the Northern Hemisphere: the December solstice. The Celts called it the Oak Moon or the Full Cold Moon."
         }
     ]
 }
