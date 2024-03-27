@@ -20,7 +20,7 @@ defineProps({
           <RouterLink to="/">Daily Reflection</RouterLink>
           <RouterLink to="/tarot">Tarot Pull</RouterLink>
           <RouterLink to="/calendar">Moon Calendar</RouterLink>
-          <a class="nav-right" href="https://github.com/joshuavickstrom/TarotWebapp" target="_blank" rel="noopener"><FontAwesomeIcon :icon="faGithub" /></a>  
+          <a class="nav-right icon" href="https://github.com/joshuavickstrom/TarotWebapp" target="_blank" rel="noopener"><FontAwesomeIcon :icon="faGithub" /></a>  
           <RouterLink class="nav-right" to="/buyadeck">Buy your own deck</RouterLink>
         </nav>
     </header>
@@ -57,7 +57,7 @@ header {
 nav {
   width: 100%;
   font-size: 12px;
-  text-align: center;
+  text-align: left;
   margin-top: 2rem;
   color:antiquewhite;
   font-family: "Montserrat Alternates", sans-serif;
@@ -75,10 +75,28 @@ nav a:first-of-type {
   border: 0;
 }
 .nav-right {
+  font-size: .8em;
   display:inline;
   float:right;
 }
-@media (min-width: 1024px) {
+.icon {
+  font-size:1.5em;
+  margin-top:-.6rem;
+  padding-left:0;
+}
+@media (max-width: 700px) {
+  nav {
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 1rem;
+  }
+.nav-right {
+  display:inline;
+  float:right;
+  display:none;
+}
+}
+@media (min-width: 701px) {
 
   nav {
     text-align: left;
