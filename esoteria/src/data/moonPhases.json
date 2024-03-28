@@ -2,35 +2,43 @@
     "moonPhases": [
         {
             "phaseName": "New Moon",
-            "phase": "primary"
+            "phase": "primary",
+            "icon": 1
         },
         {
             "phaseName": "Waxing Crescent Moon",
-            "phase": "intermediate"
+            "phase": "intermediate",
+            "icon": "d"
         },
         {
             "phaseName": "First Quarter Moon",
-            "phase": "primary"
+            "phase": "primary",
+            "icon": "g"
         },
         {
             "phaseName": "Waxing Gibbous Moon",
-            "phase": "intermediate"
+            "phase": "intermediate",
+            "icon": "k"
         },
         {
             "phaseName": "Full Moon",
-            "phase": "primary"
+            "phase": "primary",
+            "icon": 0
         },
         {
             "phaseName": "Waning Gibbous Moon",
-            "phase": "intermediate"
+            "phase": "intermediate",
+            "icon": "p"
         },
         {
             "phaseName": "Third Quarter Moon",
-            "phase": "primary"
+            "phase": "primary",
+            "icon": "t"
         },
         {
             "phaseName": "Waning Crescent Moon",
-            "phase": "intermediate"
+            "phase": "intermediate",
+            "icon": "w"
         }
     ],
 

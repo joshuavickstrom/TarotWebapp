@@ -1,5 +1,5 @@
 @import './base.css';
-@font-face { font-family: MoonPhases; src: url('moon_phases.ttf');
+@font-face { font-family: MoonPhases; src: url('moon_phases.ttf') };
 #app {
   max-width: 1280px;
   margin: 0 auto;
@@ -7,6 +7,10 @@
   font-weight: normal;
 }
 
+.moon {
+  font-family: MoonPhases;
+  color: #D19900;
+}
 a,
 .green {
   text-decoration: none;
