@@ -20,8 +20,8 @@ defineProps({
           <RouterLink to="/">Daily Reflection</RouterLink>
           <RouterLink to="/tarot">Tarot Pull</RouterLink>
           <RouterLink to="/calendar">Moon Calendar</RouterLink>
-          <a class="nav-right icon" href="https://github.com/joshuavickstrom/TarotWebapp" target="_blank" rel="noopener"><FontAwesomeIcon :icon="faGithub" /></a>  
-          <RouterLink class="nav-right" to="/buyadeck">Buy your own deck</RouterLink>
+          <RouterLink class="nav-mobile" to="/buyadeck">&#x1F0E9;</RouterLink>
+          <RouterLink class="nav-right" to="/buyadeck"><span class="card-uni">&#x1F0E9;</span> Buy your own deck</RouterLink>
         </nav>
     </header>
 </template>
@@ -70,30 +70,34 @@ nav a {
   padding: 0 1rem;
   border-left: 1px solid var(--color-border);
 }
-
+.card-uni {
+  font-size:1.2em;
+}
 nav a:first-of-type {
   border: 0;
 }
 .nav-right {
-  font-size: .8em;
   display:inline;
   float:right;
 }
-.icon {
-  font-size:1.5em;
-  margin-top:-.6rem;
-  padding-left:0;
+.nav-mobile{
+  display:none;
 }
 @media (max-width: 700px) {
   nav {
     text-align: center;
-    padding: 1rem 0;
-    margin-top: 1rem;
+  }
+  nav a {
+    margin-top: -60px;
+    padding:1rem 6px;
   }
 .nav-right {
-  display:inline;
-  float:right;
   display:none;
+}
+.nav-mobile{
+  margin-top:-30px;
+  font-size: 1.8rem;
+  display:inline-block;
 }
 }
 @media (min-width: 701px) {
