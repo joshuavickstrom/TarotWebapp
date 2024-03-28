@@ -1,0 +1,56 @@
+<script setup>
+import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
+import { faGithub } from '@fortawesome/free-brands-svg-icons'
+
+defineProps({
+  msg: {
+    type: String,
+    required: true
+  }
+})
+</script>
+
+<template>
+  <div class="footer">
+    <p>&#169; 2024</p>
+    <p><a href="https://www.linkedin.com/in/lili-clift/">Lili Clift</a>, <a href="https://www.linkedin.com/in/mackenzie-branch/">Mackenzie Branch</a>, <a href="https://www.linkedin.com/in/joshuakvickstrom/">Joshua Vickstrom</a></p>
+    <a class="icon" href="https://github.com/joshuavickstrom/TarotWebapp" target="_blank" rel="noopener"><FontAwesomeIcon :icon="faGithub" /> Visit our project</a> 
+  </div>
+</template>
+
+<style>
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #0D0107;
+  color: antiquewhite;
+  text-align: center;
+}
+.icon {
+  margin-top:-.6rem;
+  font-size:1.3em;
+}
+@media (max-width: 700px) {
+  nav {
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 1rem;
+  }
+.nav-right {
+
+  display:none;
+}
+}
+@media (min-width: 701px) {
+
+  nav {
+    text-align: left;
+    font-size: 1rem;
+
+    padding: 1rem 0;
+    margin-top: 1rem;
+  }
+}
+</style>
