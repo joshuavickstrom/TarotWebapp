@@ -57,7 +57,6 @@ import axios from "axios";
           },
         }).then((res) => {
           this.moonPhase = res.data.data.table.rows[0].cells[0].extraInfo.phase.string;
-          console.log(this.moonPhase)
         }).catch((err) => console.error(err));
       }
     }
