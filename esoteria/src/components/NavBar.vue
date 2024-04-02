@@ -1,6 +1,7 @@
 <script setup>
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import { faGithub } from '@fortawesome/free-brands-svg-icons'
+import MoonIcon from './MoonIcon.vue'
 
 defineProps({
   msg: {
@@ -13,6 +14,9 @@ defineProps({
 <template>
   <header>
       <h1 class="nav-header">{{ msg }}</h1>
+      <RouterLink style="padding:0px; position: absolute; right: 580px; top: 15px; font-size: xx-large;" to="/calendar">      
+        <MoonIcon></MoonIcon>
+      </RouterLink>
       <h3 class="nav-subheader">
         Cartomancy Companion
       </h3>  

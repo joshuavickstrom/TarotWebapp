@@ -1,10 +1,10 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
-import MoonIcon from './components/MoonIcon.vue';
 import NavBar from './components/NavBar.vue'
 import Footer from './components/Footer.vue'
 import OpenAI from "openai";
 import axios from "axios";
+import { state } from "./state.js";
 </script>
 
 <template>
@@ -19,7 +19,6 @@ import axios from "axios";
       return {
         openai: null,
         authString: btoa(`992aba9d-c7d8-41ee-abdd-c8de26cc8e29:${import.meta.env.VITE_ASTRO_AI}`),
-        moonPhase: null,
       }
     },
     mounted() {
@@ -47,7 +46,7 @@ import axios from "axios";
             Authorization: `Basic ${this.authString}`
           },
         }).then((res) => {
-          this.moonPhase = res.data.data.table.rows[0].cells[0].extraInfo.phase.string;
+          state.currentPhase = res.data.data.table.rows[0].cells[0].extraInfo.phase.string;
         }).catch((err) => console.error(err));
       }
     }
