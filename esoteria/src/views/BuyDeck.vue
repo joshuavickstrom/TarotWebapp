@@ -1,15 +1,12 @@
-<script setup>
-</script>
-
 <template>
-  <div class="home">
-    <h1>This is HOME</h1>
+  <div class="buyadeck">
+    <h1>This is BUY YOUR OWN DECK</h1>
   </div>
 </template>
 
 <style>
 @media (min-width: 1024px) {
-  .home {
+  .buyadeck {
     min-height: 100vh;
     display: flex;
     align-items: center;
