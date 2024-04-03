@@ -14,7 +14,7 @@ defineProps({
 <template>
   <header>
       <h1 class="nav-header">{{ msg }}</h1>
-      <RouterLink style="padding:0px; position: absolute; right: 580px; top: 15px; font-size: xx-large;" to="/calendar">      
+      <RouterLink style="padding:0px; position: absolute; right: 565px; top: 9px; font-size: 30pt;" to="/calendar">      
         <MoonIcon></MoonIcon>
       </RouterLink>
       <h3 class="nav-subheader">
