@@ -97,7 +97,7 @@ import axios from "axios";
         };
       },
       render() {
-        this.context.fillStyle = "#000000";
+        this.context.fillStyle = "#0D0107";
         this.context.fillRect(0, 0, this.maxx, this.maxy);
         for (let i = 0; i < this.dotCount; i++) {
           this.drawDot(this.dots[i]);
