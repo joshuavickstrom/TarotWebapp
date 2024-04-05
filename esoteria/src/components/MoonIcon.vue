@@ -4,7 +4,7 @@ import { state } from '../state.js';
 </script>
 
 <template>
-  <div class="moon" :title="`${state.currentPhase}: `">{{ phaseData !== null ? phaseData.icon : 'd'}}</div>
+  <div class="moon" :title="`${state.currentPhase}: ${phaseData ? phaseData.title : state.currentPhase} `">{{ phaseData !== null ? phaseData.icon : 'd'}}</div>
 </template>
 <script>
   export default {
