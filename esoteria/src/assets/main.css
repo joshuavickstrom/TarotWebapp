@@ -8,6 +8,7 @@
 .moon {
   font-family: MoonPhases;
   color: #D19900;
+  cursor: pointer;
 }
 a,
 .green {

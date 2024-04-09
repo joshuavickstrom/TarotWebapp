@@ -1,10 +1,10 @@
 <script setup>
 import MoonPhases from '../data/moonPhases.json';
-    defineProps(['phase'])
+import { state } from '../state.js';
 </script>
 
 <template>
-  <div class="moon">{{ phaseData !== null ? phaseData.icon : 'd'}}</div>
+  <div class="moon" :title="`${state.currentPhase}: ${phaseData ? phaseData.title : state.currentPhase} `">{{ phaseData !== null ? phaseData.icon : 'd'}}</div>
 </template>
 <script>
   export default {
@@ -15,12 +15,12 @@ import MoonPhases from '../data/moonPhases.json';
     },
     computed: {
         phaseData() {
-            return this.phase !== null ? this.GetPhaseData() : null
+            return state.currentPhase !== null ? this.GetPhaseData() : null
         }
     },
     methods: {
       GetPhaseData() {
-        return this.allPhases.find(x => x.phaseName.includes(this.phase));
+        return this.allPhases.find(x => x.phaseName.includes(state.currentPhase));
       }
     }
   }
