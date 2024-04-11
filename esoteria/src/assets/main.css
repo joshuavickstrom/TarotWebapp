@@ -8,6 +8,7 @@
 .moon {
   font-family: MoonPhases;
   color: #D19900;
+  cursor: pointer;
 }
 a,
 .green {
@@ -19,7 +20,7 @@ a,
 
 @media (hover: hover) {
   a:hover {
-    color: #0E213A;
+    color: #D19900;
   }
 }
 

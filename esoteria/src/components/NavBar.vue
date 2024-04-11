@@ -1,6 +1,7 @@
 <script setup>
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import { faGithub } from '@fortawesome/free-brands-svg-icons'
+import MoonIcon from './MoonIcon.vue'
 
 defineProps({
   msg: {
@@ -12,16 +13,26 @@ defineProps({
 
 <template>
   <header>
-      <h1 class="nav-header">{{ msg }}</h1>
+      <div style="display: flex;">
+        <h1 class="nav-header" style="display: flex; justify-content: center; margin-left: 70px;">{{ msg }}
+          <RouterLink style="padding-left:30px; margin-top:-20px; font-size: 30pt;" to="/calendar">      
+            <MoonIcon></MoonIcon>
+          </RouterLink>
+        </h1>
+      </div>
+      <!-- <h1 class="nav-header" style="margin-right: 30px !important; z-index: 3;">{{ msg }}</h1>
+      <RouterLink style="z-index: 3; padding:0px; position: relative; font-size: 30pt;" to="/calendar">      
+        <MoonIcon></MoonIcon>
+      </RouterLink> -->
       <h3 class="nav-subheader">
         Cartomancy Companion
       </h3>  
       <nav>
-          <RouterLink to="/">Daily Reflection</RouterLink>
-          <RouterLink to="/tarot">Tarot Pull</RouterLink>
-          <RouterLink to="/calendar">Moon Calendar</RouterLink>
-          <RouterLink class="nav-mobile" to="/buyadeck">&#x1F0E9;</RouterLink>
-          <RouterLink class="nav-right" to="/buyadeck"><span class="card-uni">&#x1F0E9;</span> Buy your own deck</RouterLink>
+          <RouterLink class="glow" to="/">Daily Reflection</RouterLink>
+          <RouterLink class="glow" to="/tarot">Tarot Pull</RouterLink>
+          <RouterLink class="glow" to="/calendar">Moon Calendar</RouterLink>
+          <RouterLink class="nav-mobile glow" to="/buyadeck">&#x1F0E9;</RouterLink>
+          <RouterLink class="nav-right glow" to="/buyadeck"><span class="card-uni">&#x1F0E9;</span> Buy your own deck</RouterLink>
         </nav>
     </header>
 </template>
@@ -83,6 +94,22 @@ nav a:first-of-type {
 .nav-mobile{
   display:none;
 }
+a.glow, a.glow:hover, a.glow:focus
+{
+	text-decoration: none;
+	color: antiquewhite;
+	text-shadow: none;
+	-webkit-transition: 500ms linear 0s;
+	-moz-transition: 500ms linear 0s;
+	-o-transition: 500ms linear 0s;
+	transition: 500ms linear 0s;
+	outline: 0 none;
+}
+a.glow:hover, a.glow:focus
+{
+	color: #fff;
+	text-shadow: -1px 1px 8px #ffc, 1px -1px 8px #fff;
+}
 @media (max-width: 700px) {
   nav {
     text-align: center;
@@ -99,6 +126,7 @@ nav a:first-of-type {
   font-size: 1.8rem;
   display:inline-block;
 }
+
 }
 @media (min-width: 701px) {
 
