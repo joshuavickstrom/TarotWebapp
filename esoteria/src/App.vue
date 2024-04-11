@@ -13,6 +13,7 @@ import axios from "axios";
   <div class="main-content">
     <RouterView />
   </div>
+
   <Footer />
 </template>
 
