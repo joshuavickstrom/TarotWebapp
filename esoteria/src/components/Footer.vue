@@ -32,6 +32,22 @@ defineProps({
   margin-top:-.6rem;
   font-size:1.3em;
 }
+.footer a, .footer a:hover, .footer a:focus
+{
+	text-decoration: none;
+	color: antiquewhite;
+	text-shadow: none;
+	-webkit-transition: 500ms linear 0s;
+	-moz-transition: 500ms linear 0s;
+	-o-transition: 500ms linear 0s;
+	transition: 500ms linear 0s;
+	outline: 0 none;
+}
+.footer a:hover, .footer a:focus
+{
+	color: #D19900;
+	text-shadow: -1px 1px 8px #ffc, 1px -1px 8px #fff;
+}
 @media (max-width: 700px) {
   nav {
     text-align: center;
