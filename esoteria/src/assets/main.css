@@ -4,20 +4,41 @@
   margin: 0 auto;
   font-weight: normal;
 }
-
+body {
+  overflow: hidden; /* Hide scrollbars */
+}
 .moon {
   font-family: MoonPhases;
   color: #D19900;
   cursor: pointer;
 }
-a,
-.green {
+a {
   text-decoration: none;
   color: antiquewhite;
   transition: 0.4s;
   padding: 3px;
 }
 
+.main-content {
+  position:fixed;
+  top: 180px;
+  width: 80vw;
+  height: 60vh;
+  border: 2px solid antiquewhite;
+  margin: 45px 10vw auto 10vw;
+  overflow-y: scroll;
+  color:antiquewhite;
+  background-color: #a79494;
+}
+.main-content::-webkit-scrollbar, body::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.main-content, body{
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
 @media (hover: hover) {
   a:hover {
     color: #D19900;

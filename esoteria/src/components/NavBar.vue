@@ -3,18 +3,12 @@ import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import { faGithub } from '@fortawesome/free-brands-svg-icons'
 import MoonIcon from './MoonIcon.vue'
 
-defineProps({
-  msg: {
-    type: String,
-    required: true
-  }
-})
 </script>
 
 <template>
   <header>
       <div style="display: flex;">
-        <h1 class="nav-header" style="display: flex; justify-content: center; margin-left: 70px;">{{ msg }}
+        <h1 class="nav-header" style="display: flex; justify-content: center; margin-left: 70px;">Esoteria
           <RouterLink style="padding-left:30px; margin-top:-20px; font-size: 30pt;" to="/calendar">      
             <MoonIcon></MoonIcon>
           </RouterLink>

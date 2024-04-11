@@ -1,17 +1,19 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
+import MoonIcon from './components/MoonIcon.vue';
 import NavBar from './components/NavBar.vue'
 import Footer from './components/Footer.vue'
 import OpenAI from "openai";
 import axios from "axios";
-import { state } from "./state.js";
 </script>
 
 <template>
-  <NavBar style="position: fixed; top: 0;" msg="Esoteria" />
-  <div ref="background" style="position: absolute; z-index: -3; width: 100%; height: 100%;"></div>    
+  <NavBar style="position: fixed; top: 0;" />
+  <div ref="background" style="position: fixed; top: 180px; z-index: -3; width: 100%; height: 100%;"></div>    
+  <div class="main-content">
+    <RouterView />
+  </div>
 
-    <RouterView id="background" />
   <Footer />
 </template>
 
@@ -75,7 +77,7 @@ import { state } from "./state.js";
             Authorization: `Basic ${this.authString}`
           },
         }).then((res) => {
-          state.currentPhase = res.data.data.table.rows[0].cells[0].extraInfo.phase.string;
+          this.moonPhase = res.data.data.table.rows[0].cells[0].extraInfo.phase.string;
         }).catch((err) => console.error(err));
       },
       resizeCanvas() {
