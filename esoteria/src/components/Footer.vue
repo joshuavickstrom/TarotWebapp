@@ -12,9 +12,9 @@ defineProps({
 
 <template>
   <div class="footer">
-    <p>&#169; 2024</p>
-    <p><a href="https://www.linkedin.com/in/lili-clift/">Lili Clift</a>, <a href="https://www.linkedin.com/in/mackenzie-branch/">Mackenzie Branch</a>, <a href="https://www.linkedin.com/in/joshuakvickstrom/">Joshua Vickstrom</a></p>
-    <a class="icon" href="https://github.com/joshuavickstrom/TarotWebapp" target="_blank" rel="noopener"><FontAwesomeIcon :icon="faGithub" /> Visit our project</a> 
+    <p id="FooterCopyright">&#169; 2024</p>
+    <p><a id="FooterLinkLili" href="https://www.linkedin.com/in/lili-clift/">Lili Clift</a>, <a id="FooterLinkMackenzie" href="https://www.linkedin.com/in/mackenzie-branch/">Mackenzie Branch</a>, <a id="FooterLinkJoshua" href="https://www.linkedin.com/in/joshuakvickstrom/">Joshua Vickstrom</a></p>
+    <a id="FooterLinkGithub" class="icon" href="https://github.com/joshuavickstrom/TarotWebapp" target="_blank" rel="noopener"><FontAwesomeIcon :icon="faGithub" /> Visit our project</a> 
   </div>
 </template>
 
