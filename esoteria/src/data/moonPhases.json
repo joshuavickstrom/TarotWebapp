@@ -2,27 +2,31 @@
     "moonPhases": [
         {
             "phaseName": "New Moon",
+            "unicode": "1F311",
             "phase": "primary",
             "icon": 1,
             "title": "Seeding Intentions",
             "influence": "The New Moon marks the beginning of the lunar cycle, representing fresh starts and new possibilities. During this phase, our intuition is heightened, making it an opportune time to set intentions and plant the seeds of what we wish to manifest. In Tarot readings conducted during the New Moon, focus on questions related to new beginnings, potential, and setting clear intentions for the future."
         },
         {
-            "phaseName": "Waxing Crescent Moon",
+            "phaseName": "Waxing Crescent",
+            "unicode": "1F312",
             "phase": "intermediate",
             "icon": "d",
             "title": "Growth and Progress",
             "influence": "As the moon waxes, its energy encourages growth, expansion, and forward movement. Waxing Moon Tarot readings are best suited for questions about progress, opportunities, and endeavors gaining momentum. This phase instills a sense of optimism and potential, making it ideal for exploring the path ahead."
         },
         {
-            "phaseName": "First Quarter Moon",
+            "phaseName": "First Quarter",
+            "unicode": "1F313",
             "phase": "primary",
             "icon": "g",
             "title": "Growth and Progress",
             "influence": "As the moon waxes, its energy encourages growth, expansion, and forward movement. Waxing Moon Tarot readings are best suited for questions about progress, opportunities, and endeavors gaining momentum. This phase instills a sense of optimism and potential, making it ideal for exploring the path ahead."
         },
         {
-            "phaseName": "Waxing Gibbous Moon",
+            "phaseName": "Waxing Gibbous",
+            "unicode": "1F314",
             "phase": "intermediate",
             "icon": "k",
             "title": "Growth and Progress",
@@ -30,27 +34,31 @@
         },
         {
             "phaseName": "Full Moon",
+            "unicode": "1F315",
             "phase": "primary",
             "icon": 0,
             "title": "Illuminating Insights",
             "influence": "The Full Moon illuminates the night sky, casting light on hidden truths and emotions. It is a time of heightened intuition and increased psychic receptivity. Full Moon Tarot readings can be particularly powerful for gaining deep insights into emotional blocks, relationships, and personal growth. Seekers may find illumination and clarity during this phase, allowing them to address any issues that come to the surface."
         },
         {
-            "phaseName": "Waning Gibbous Moon",
+            "phaseName": "Waning Gibbous",
+            "unicode": "1F316",
             "phase": "intermediate",
             "icon": "p",
             "title": "Release and Letting Go",
             "influence": "During the Waning Moon phase, the moon’s energy turns inward, promoting release and introspection. It is a time for letting go of what no longer serves us and shedding light on what needs to be released. Waning Moon Tarot readings can aid in understanding and releasing blockages, patterns, and past challenges, providing the seeker with the opportunity to cleanse and purify their energy."
         },
         {
-            "phaseName": "Third Quarter Moon",
+            "phaseName": "Third Quarter",
+            "unicode": "1F317",
             "phase": "primary",
             "icon": "t",
             "title": "Release and Letting Go",
             "influence": "During the Waning Moon phase, the moon’s energy turns inward, promoting release and introspection. It is a time for letting go of what no longer serves us and shedding light on what needs to be released. Waning Moon Tarot readings can aid in understanding and releasing blockages, patterns, and past challenges, providing the seeker with the opportunity to cleanse and purify their energy."
         },
         {
-            "phaseName": "Waning Crescent Moon",
+            "phaseName": "Waning Crescent",
+            "unicode": "1F318",
             "phase": "intermediate",
             "icon": "w",
             "title": "Release and Letting Go",
