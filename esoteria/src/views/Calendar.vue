@@ -38,6 +38,7 @@ import axios from "axios";
     GetWeek() {
       let fdWeek = new Date();
       let sunday = new Date();
+      sunday.setTime(fdWeek.setUTCHours(24));
       let monday = new Date();
       monday.setTime(fdWeek.setUTCHours(24));
       let tuesday = new Date();
@@ -89,6 +90,10 @@ import axios from "axios";
 }
 </script>
   <style>
+  .calendar {
+    display: flex;
+    align-items: center;
+  }
   @media (min-width: 1024px) {
     .calendar {
       display: flex;

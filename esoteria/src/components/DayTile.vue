@@ -56,13 +56,13 @@ defineProps({
   background: rgba(250, 235, 215, 0.3);
   box-shadow: -1px 1px 2px 2px antiquewhite;
   height: 160px;
-  width: 10%;
-  padding: 5px;
+  width: 12%;
+  padding: 1%;
   margin: 3% auto;
 }
 #todayTile {
   height: 200px;
-  width: 12%;
+  width: 15%;
 }
 .dayTileHeader {
   align-self: flex-start;
@@ -88,4 +88,6 @@ defineProps({
   font-style: normal;
   margin-left:-15px;
 }
+
+
 </style>
