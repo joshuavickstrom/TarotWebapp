@@ -5,6 +5,7 @@ import NavBar from './components/NavBar.vue'
 import Footer from './components/Footer.vue'
 import OpenAI from "openai";
 import axios from "axios";
+import { state } from "./state.js"
 </script>
 
 <template>
@@ -78,6 +79,7 @@ import axios from "axios";
           },
         }).then((res) => {
           this.moonPhase = res.data.data.table.rows[0].cells[0].extraInfo.phase.string;
+          state.currentPhase = this.moonPhase;
         }).catch((err) => console.error(err));
       },
       resizeCanvas() {
