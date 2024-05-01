@@ -3,6 +3,9 @@
     {  
         "arcana": "Major Arcana",
         "card": "The Fool",
+        "images": {
+            "RiderWaite": "RWS_Tarot_00_Fool.jpg"
+        },
         "brief": "Let go of preconceived ideas and remain open to change.",
         "upright": "Pamela Coleman-Smith's artful rendition of The Fool in the Rider-Waite Tarot deck is often used to represent Tarot in general. Early classical versions of The Fool card, however, portray quite a different character -- a person driven by base needs and urges, who has fallen into a state of poverty and deprivation. In some earlier instances, The Fool is made out to be a carnival entertainer or a huckster. In others, he is portrayed as decrepit and vulnerable -- as the cumulative result of his delusions and failures. Not until the 20th century do you see the popular Rider-Waite image of The Fool arise -- that of an innocent soul before its fall into matter, untainted by contact with society and all its ills. Modern decks usually borrow from the Rider-Waite imagery. Most Fool cards copy the bucolic mountainside scene, the butterfly, and the potential misplaced step that will send The Fool tumbling into the unknown. Don't forget, though, that the earlier versions of this card represented already-fallen humanity, over-identified with the material plane of existence, and beginning a pilgrimage toward self-knowledge and, eventually, wisdom. The Fool reminds us to recognize the path of personal development within ourselves -- and the stage upon that path where we find ourselves -- in order to energize our movement toward deeper self-realization.",
         "reverse": "When the Fool card is reversed, you are encountering an unfinished side of yourself, a part still caught in the shadows of ignorance or immaturity. An emotional reflex or psychological attitude could be holding you back from responding authentically and naturally. Release yourself from any dogmas or taboos so your natural truthfulness and instinct for right action can be restored.",
@@ -11,6 +14,9 @@
     {  
         "arcana": "Major Arcana",
         "card": "The Magician",
+        "images": {
+            "RiderWaite": "RWS_Tarot_01_Magician.jpg"
+        },
         "brief": "Trust your inspiration. You are smarter than you think.",
         "upright": "Traditionally, The Magician is one who can demonstrate hands-on magic -- as in healing, transformative rituals, alchemical transmutations, charging of talismans, and the like. A modern Magician is any person who completes the circuit between heaven and Earth; one who seeks to bring forth the divine gold within her or himself. At the birth of Tarot, even a gifted healer who was not an ordained clergyman was considered to be in league with The Devil! For obvious reasons, the line between fooling the eye with sleight of hand and charging the world with magical will, was not clearly differentiated in the early Tarot cards.  Waite's image of The Magician as the solitary ritualist communing with the spirits of the elements -- with its formal arrangement of symbols -- is a token of the freedom we have in modern times to declare our spiritual politics without fear of reprisal. The older cards were never so explicit about what The Magician was doing. It's best to keep your imagination open with this card. Visualize yourself manifesting something unique, guided by evolutionary forces that emerge spontaneously from within your soul.",
         "reverse": "The Magician card reversed suggests you may be working against your own creativity. Perhaps you feel that your ideas are too scandalous or too precedent breaking. Perhaps you feel it should be someone else who communicates these insights or challenges. Perhaps you are uncomfortable with taking a leadership position, even a temporary one. Ask yourself what you have to lose. Have the courage of your convictions and speak your truth.",
@@ -19,6 +25,9 @@
     {  
         "arcana": "Major Arcana",
         "card": "The High Priestess",
+        "images": {
+            "RiderWaite": "RWS_Tarot_02_High_Priestess.jpg"
+        },
         "brief": "Put self-cultivation at the top of your daily priority list.",
         "upright": "The High Priestess is a Major Arcana, or 'trump' card, that represents human wisdom. The High Priestess can be viewed as a kind of female Pope (a Papess), or the ancient Egyptian Priestess of Isis, the even more ancient snake and bird goddesses, the Greek goddess Persephone, or Eve, before the fall.For the accused heretics who were burnt at the stake for revering her in the 14th and 15th century, the Priestess symbolized the prophecy of the return of the Holy Spirit, which was perceived as the female aspect of the Holy Trinity. In terms of the Major Arcana ordering of cards, The High Priestess appears in the sequence as soon as the Fool decides he wants to develop his innate powers, making a move toward becoming a Magician. The High Priestess is his first teacher, representing the inner life and the method for contacting it, as well as the contemplative study of nature and spiritual mystery.",
         "reverse": "The High Priestess card reversed suggests that when you have problems, it's usually because you are so attracted to your inner life that it has become an addiction in itself. It blots out your interest in ordinary reality, friends, and family -- the connections that hold us fast to our worldly identities. Don't take this card as permission to abandon the world. This is a reminder to balance your outer identifications with internal cultivation, so you can more effectively bring the spiritual world to the material world.",
@@ -27,6 +36,9 @@
     {  
         "arcana": "Major Arcana",
         "card": "The Empress",
+        "images": {
+            "RiderWaite": "RWS_Tarot_03_Empress.jpg"
+        },
         "brief": "Rather than being tough on yourself for not measuring up, know that your positive influence has facilitated favorable outcomes.",
         "upright": "The Empress is a Major Arcana, or 'trump' card, that portrays the energy of the great mother. She is nature, around us but also within us, the ever-unfolding source of life-giving power. The Empress is often pictured as a pre-Christian Goddess, as the one whom The High Priestess is channeling down to Earth for the rest of us. In medieval Europe, The Empress card was painted to represent whatever queen currently ruled the land, probably to satisfy the Inquisitors. But the scholars of the Renaissance and beyond had no doubt of her true identity -- she could not be fully revealed on Tarot cards as 'the woman clothed with the sun' until after the French Revolution. This supreme archetype of femininity also symbolizes fertility. It is The Empress who provides us nourishment and security. She is also sometimes seen as delighting us with flowers and fruit. A potentially terrifying aspect of this archetype manifests itself whenever karmic mood swings wipe out our plans, like a storm that has come upon us. Whatever happens, The Empress is the source of our embodiment and of natural lLaw. She might even be called 'The Great Recycler.'",
         "reverse": "Because the Empress represents Nature, when she is reversed she has tremendous natural power to correct her heedless children. Volcanoes, tsunami, hurricanes and the like symbolize violent emotions triggered by ignorant or foolish humans. If you feel like being corrective, you are probably justified, but set limits on how punitive you allow yourself to be. You don't want to go too far and destroy all you have taken so much delight in.",
@@ -35,6 +47,9 @@
     {  
         "arcana": "Major Arcana",
         "card": "The Emperor",
+        "images": {
+            "RiderWaite": "RWS_Tarot_04_Emperor.jpg"
+        },
         "brief": "Draw upon the capable inner resources you possess to get the task completed.",
         "upright": "In the most practical terms, The Emperor Tarot card represents the highest leadership, a head of state, or the most exemplary and powerful person in the realm. This archetypal ruler is responsible for the affairs of a society or community, which are directly proportional to his well being and happiness. The more enlightenment and cosmic perspective this energy brings, the better life is for all. The Emperor archetype masters the world of matter and physical manifestation. When you apply this card to your situation, acknowledge your potentials for mastery. Reinforce a sense of sovereignty within yourself, despite any self-limiting beliefs, habits, or appearances to the contrary.",
         "reverse": "When the Emperor card is reversed, there may be a tendency to behave like a petty tyrant, insisting on being indulged, served and flattered. This emperor prefers his own version of events to what is actually true and as such risks losing the respect of his people. Try to curb whatever arrogance might be distorting your point of view. Remember that, though the emperor looks like the king, he is the servant of everyone in his realm. If he doesn't serve well, the negative impact of his own defects are what will bring him down.",
@@ -43,6 +58,9 @@
     {  
         "arcana": "Major Arcana",
         "card": "The Hierophant",
+        "images": {
+            "RiderWaite": "RWS_Tarot_05_Hierophant.jpg"
+        },
         "brief": "Develop your expertise, and have faith that you are a master in the making.",
         "upright": "The Hierophant Tarot this card refers to a master and the learning of practical lessons from the study of natural law. This energy of this card points to some agent or resource that can reveal the secrets of life, the cycles of the Moon and tides, the links between human beings and the heavens. Because monasteries were the only places a person could learn to read and write in the Middle Ages, a Hierophant was one to whom a student would petition for entry. He was the one to set the curriculum for the neophyte's course of study. Often pictured with the right hand raised in blessing, the Hierophant is linked with the ancient lineage of Melchezidek, initiator of the Hebrew priestly tradition, the one who passes on the teachings. All shamans of any tradition draw upon this archetype.",
         "reverse": "When the Hierophant card is reversed, this may be indicating that you bring an unnecessary episode of rebellion against traditional, long held ideals and spiritual beliefs that belong to your lineage. Be aware that without the steadying influence of tradition observed from generation to generation, there would be no stable support system within which you could afford to rebel. Get a sense of whether you are biting the hand that feeds you. Take care lest you damage your right relationship to the Great Mystery.",
@@ -51,6 +69,9 @@
     {  
         "arcana": "Major Arcana",
         "card": "The Lovers",
+        "images": {
+            "RiderWaite": "RWS_Tarot_06_Lovers.jpg"
+        },
         "brief": "Creative compromise helps you accept your commitments fully.",
         "upright": "Although it has taken on a strictly romantic revision of meaning in some modern decks, traditionally The Lovers Tarot card reflected the challenges of choosing a partner. At a crossroads, one cannot take both paths. The images on this card in different decks have varied more than most, because we have had so many ways of looking at sex and relationships across cultures and centuries. Classically, the energy of this card reminded us of the real challenges posed by romantic relationships, with the protagonist often shown in the act of making an either-or choice. To partake of a higher ideal often requires sacrificing the lesser option. The path of pleasure eventually leads to distraction from spiritual growth. The gratification of the personality eventually gives way to a call from spirit as the soul matures. Modern decks tend to portray the feeling of romantic love with this card, showing Adam and Eve at the gates of Eden when everything was still perfect. This interpretation portrays humanity before the fall, and can be thought to imply a different sort of choice -- the choice of evolution over perfection, or the choice of personal growth through relationship -- instead of a fantasy where everything falls into place perfectly and is taken care of without effort.",
         "reverse": "The Lovers card reversed may indicate that you are going along with a divided situation because you have a vested interest in opposition. You can't resolve this situation until you own up to your own double standard. Admit the resistance you feel, instead of proceeding halfheartedly or with unspoken resentments. In such an important area of your life, you should not just go along to get along.",
@@ -59,6 +80,9 @@
     {  
         "arcana": "Major Arcana",
         "card": "The Chariot",
+        "images": {
+            "RiderWaite": "RWS_Tarot_07_Chariot.jpg"
+        },
         "brief": "Look upon the movements of change as full of promise and adventure.",
         "upright": "The Chariot Tarot card points to a triumphal feeling of freedom, as if the Charioteer is being paraded through the streets as a hero (or heroine). The card reflects congratulations for high achievement, and serves as a sign of empowerment. Huge wheels and frisky steeds speed the rate at which the driver's will power can be realized. This kind of charge makes more of the world accessible to one ambitious enough to seize The Chariot's reins. But there is danger in this feeling of freedom, because of the increased rate of change and its power to magnify mistakes in judgment. As a seasoned warrior, the Charioteer is called upon to be extra attentive to the way ahead.",
         "reverse": "When this card is reversed, it suggests that you may balk when you know you need to pick up the reins and take responsibility for setting your life in motion. You know you could instigate change, but you haven't yet chosen to move toward it. You may be holding back for what feels like good reasons, but nothing is actually being imposed upon you; you do have other options. Own your own inner resistance instead of blaming circumstances.",
@@ -67,6 +91,9 @@
     {  
         "arcana": "Major Arcana",
         "card": "Strength",
+        "images": {
+            "RiderWaite": "RWS_Tarot_08_Strength.jpg"
+        },
         "brief": "Clearly distinguish between your ego and your intuitive self.",
         "upright": "The Strength Tarot card represents nature, which, however wild in its primal form, is tamed by our subtler, finer self -- our feminine side, our inner self. The will and passion of our instinctive nature does not need to be broken, but refined and brought to consciousness, so that all levels of creation may come into harmony. The feminine soul-force contains a persuasive power that can nurture and induce cooperation from others, stilling disruptive energies by harmonizing differences in the spirit of collective good will.",
         "reverse": "The Strength card reversed suggests that you are in a position where you have little power to affect behavior. No amount of modeling, persuasion or leadership will affect the out-of-control, untamed force that is set loose. Subtleties are overlooked, and the inducements which have served in the past to reward order may meet with scorn. You may have to lay low and do what you can to preserve yourself, and let this upside down time blow over.",
@@ -75,6 +102,9 @@
     {  
         "arcana": "Major Arcana",
         "card": "The Hermit",
+        "images": {
+            "RiderWaite": "RWS_Tarot_09_Hermit.jpg"
+        },
         "brief": "Give yourself time for contemplation. Don't allow others to stand in your way.",
         "upright": "The challenge of The Hermit card is to be able to recognize a teacher in a humble disguise. This font of mysterious knowledge will not make it easy for the student to acquire his wisdom, as it takes time and long contemplation to fathom what he knows. He often speaks wordlessly, or in ancient and barbaric tongues, communicating with the elements, animals, and nature herself. While an hourglass was an identifying feature on the earliest Hermit Tarot cards, more modern cards have shifted the metaphor, showing more or less light released from his lantern. In either case, the Hermit card reminds us of the value of time away from the hubbub of civic life, to relax the ego in communion with nature.",
         "reverse": "When the Hermit card is reversed, you may be resisting the process of evolving towards a level of wisdom that sets you apart. Fear of the path is haunting you; it could be a fear of loneliness. Try to remember that the shamanic method for facing fears is to relax and open. Let them in and allow them to have their way for a while. This way you know them fully and will see them pass of their own accord. When there are no more surprises, you can move into a place of empowered action.",
@@ -83,6 +113,9 @@
     {  
         "arcana": "Major Arcana",
         "card": "Wheel of Fortune",
+        "images": {
+            "RiderWaite": "RWS_Tarot_10_Wheel_of_Fortune.jpg"
+        },
         "brief": "Fundamental change is imminent. The positive benefits you gain during this period could last a long time.",
         "upright": "The central theme of The Wheel of Fortune card is cyclical change. The wheel keeps on rolling, churning events in a ceaseless progression of ups and downs, either way freeing us from the past. No one can escape its cyclical action, which can feel somewhat terrifying -- no matter whether we are rising or falling. When one is balanced on top of the wheel, there is a moment of crystal clarity. However, the only part of the wheel that's actually not going up and down is the hub, which represents your eternal self. Every one of us will occupy all the points on the wheel at one point or another. The cycle of the wheel is its lesson -- and we can learn to take comfort in it. If you don't like the look of things right now, just wait -- things will change. Of course, if you do like the look of things right now, enjoy it while it lasts, because that will change too!",
         "reverse": "When the Wheel of Fortune card is reversed, it suggests that you may have dropped from the heights and have been sent back to the beginning -- to either start over or reframe your plan. This may feel as if you have hit bottom, but think of it as a chance to renew yourself and chart a path that will help you rise from the ashes. You will be a more compassionate and wise ally when the next person takes a nosedive. In the future, you might want to be a little more modest in your aspirations.",
@@ -91,6 +124,9 @@
     {  
         "arcana": "Major Arcana",
         "card": "Justice",
+        "images": {
+            "RiderWaite": "RWS_Tarot_11_Justice.jpg"
+        },
         "brief": "You are seen as a fair-minded party whose opinion matters.",
         "upright": "The Justice Tarot card has to do with moral sensitivity and that which gives rise to empathy, compassion, and a sense of fairness. Since the time of Solomon, this image has represented a standard for the humane and fair-minded treatment of other beings. Often including the image of a fulcrum or scale which helps to balance competing needs against the greater good, and a two-edged sword to symbolize the precision needed to make clear judgments, this card reminds us to be careful to attend to important details. It's a mistake to overlook or minimize anything where this card is concerned. The law of karma is represented here -- what goes around comes around.",
         "reverse": "When the Justice card is reversed, the deeper meaning of this situation is being withheld for reasons only Higher Power truly understands. There are times that logical, common, rational and organic laws are overridden by some paradoxical higher order. At such times you won't be fully informed about what is going on. Wait, stay quiet, keep watching and listening. Eventually the chaos will resolve itself and the truth will be revealed.",
@@ -99,6 +135,9 @@
     {  
         "arcana": "Major Arcana",
         "card": "The Hanged Man",
+        "images": {
+            "RiderWaite": "RWS_Tarot_12_Hanged_Man.jpg"
+        },
         "brief": "Accept the consequences of your decisions. Go through it, get it over with, and free yourself up for new pursuits.",
         "upright": "The Hanged Man usually indicates a lack of ability to help oneself through independent action. The energy is arrested and awaiting judgment. With this card, there is no avenue for the will to regain control until the situation has passed. This represents a good time to be philosophical, to study and meditate upon the position you find yourself in, and to form resolutions for the moment you become free again. Only those who possess wisdom, patience, and optimism will be able to see through limitations, including possible humiliation, to grasp the inspiring lesson one can gain from such an experience.",
         "reverse": "The Hanged Man reversed suggests that the seemingly noble deed of offering yourself as the sacrificial lamb is, at least for the time being, a useless gesture. There will be no benefit to the greater good; you will experience no expansion of consciousness. It would be an empty move, so don't put yourself in that position. Ask yourself on what basis you allowed yourself to hope that your sacrifice would make a difference in this situation. Who knows? Perhaps this is meant to be an opportunity to learn something about self-denying tendencies.",
@@ -107,6 +146,9 @@
     {  
         "arcana": "Major Arcana",
         "card": "Death",
+        "images": {
+            "RiderWaite": "RWS_Tarot_13_Death.jpg"
+        },
         "brief": "Free yourself from a past that no longer serves you well and proceed toward the future.",
         "upright": "The Death card is not about the literal death of any person. It may represent the death of something else, like a project, plan, or relationship. This card also points to a time of harvest, symbolized in classical decks by the reaping skeleton. Unless the fruits of summer are harvested, they are lost to winter's harshness, and the people do not eat. As the scythe cuts the cords that link us to the past, it liberates us to go forward without fear, because we have nothing left to lose. Everything being pruned away is recycled for the fertility of the future, so that nothing is really ever lost, despite seasonal cycles of gain and loss. In more modern Tarot decks, we see Death mounted on a horse and wearing black armor. The emphasis in these decks is on the punishment of sin, as in the way the medieval Plagu (which the Death image was based on) was used to explain the wrath of God. Luckily, in modern times, we are not so encumbered with such a guilt-ridden philosophy.",
         "reverse": "The Death card reversed suggests that you might long for the cord to be cut, but unfortunately you have to persist and endure without the relief of an ending. It is not time for termination and closure yet. Be patient with the current circumstances without resigning yourself to a negative outcome. Coming changes may alter the way you feel about the status quo. Remember that harvest isn't started until the fruit is ripe. Work at becoming wiser and more mellow, sweeter and more nourishing, and your time of release may happen sooner.",
@@ -115,6 +157,9 @@
     {  
         "arcana": "Major Arcana",
         "card": "Temperance",
+        "images": {
+            "RiderWaite": "RWS_Tarot_14_Temperance.jpg"
+        },
         "brief": "Identify and acquire the ingredients that will most help you complete your mission and leave the rest behind.",
         "upright": "The Temperance card is a reference to the soul. Classically female, the woman or angel on the Temperance card is mixing up a blend of subtle energies for the evolution of the personality. One key to interpreting this card can be found in its title -- a play on the process of tempering metals in a forge. Metals must undergo extremes of temperature, folding, and pounding, but the end product is infinitely superior to impure ore mined from the earth. In this image, the soul volunteers the ego for a cleansing and healing experience, which may turn the personality inside-out, but which brings out the gold hidden within the heart.",
         "reverse": "The Temperance card reversed suggests that you are in danger of giving up on yourself. Something is making you feel apathetic and ignore what you deeply want and need. You may be morbidly overemphasizing the chaos and disruption that would come with change and growth rather than focusing on the regeneration and liberation that could be yours. Try to carve out a day in which you do only activities that make you happy. Eat well and get some rest, then take another look at your life. If you do not gain a better perspective, seek help.",
@@ -123,6 +168,9 @@
     {  
         "arcana": "Major Arcana",
         "card": "The Devil",
+        "images": {
+            "RiderWaite": "RWS_Tarot_15_Devil.jpg"
+        },
         "brief": "Let go of inhibitions. Allow yourself to express all of who you are.",
         "upright": "The Devil Tarot card expresses the realm of the taboo -- the culturally rejected wildness and undigested shadow side that each of us carries in our subconscious. This shadow is actually at the core of our being, which we cannot get rid of and will never succeed in taming. From its earliest versions, which portrayed a vampire-demon, The Devil evoked the church-fueled fear that a person could 'lose their soul' to wild and passionate forces. The Devil image which emerged in the mid-1700s gives us a more sophisticated rendition -- that of the 'scapegoated goddess,' whose esoteric name is Baphomet. Volcanic reserves of passion and primal desire empower her efforts to overcome the pressure of stereotyped roles and experience true freedom of soul.",
         "reverse": "The Devil card reversed suggests that you are enjoying creating chaos and resistance for no particular, positive reason. Your sense of humor could be a bit twisted. Your motive may be vengeance or you are simply being an irritant. The juvenile prankster streak in you must be corralled and changed before it gets you into further trouble. Suppress those impulses until you successfully engineer a shift away from this careless behavior. Such antics will cost you in the long run even though they seem amusing in the moment.",
@@ -131,6 +179,9 @@
     {  
         "arcana": "Major Arcana",
         "card": "The Tower",
+        "images": {
+            "RiderWaite": "RWS_Tarot_16_Tower.jpg"
+        },
         "brief": "You are the one to serve as a catalyst for change.",
         "upright": "In practically all renditions of the Tower card, disaster is striking or has just struck. The demons of madness and despair are released from ancient hiding places, and nature conspires with human failings to destabilize a society. The upheaval is collective and impersonal. Let us remember these images were created for the educated nobles and clergy -- reminding them that they have the most to lose if the hierarchy is toppled. Lightning is a fitting karmic payback for the guilt of those whose fortunes come from the exploitation or abuse of others. A modern subtitle might be 'revolution,' indicating that through drastic social change, oppressed people can find renewed hope of better times. The Tower experience comes like a flash of lightning to topple the hierarchy of the old order, after which everyone can have a fresh start on a more equal footing.",
         "reverse": "The Tower card reversed suggests that the drama is over. All the leaning towers have fallen. Leave behind the issues and emotions that caused this to happen. Ask yourself what you can do now that the options of your past are closed. As you pick yourself up and begin again, you will find renewed energy for your next significant endeavor.",
@@ -139,6 +190,9 @@
     {  
         "arcana": "Major Arcana",
         "card": "The Star",
+        "images": {
+            "RiderWaite": "RWS_Tarot_17_Star.jpg"
+        },
         "brief": "Your time is better spent in reflection and spiritual pursuit.",
         "upright": "The Star Tarot card is about reconnecting one's soul with the divine -- the transcending of personality, family, community, and reputation. It has to do ultimately with the freedom to be one's self. The soul is responding to celestial influences -- forces that can provide the personality with a stronger sense of purpose. The Star card helps us to remember our exalted origins and our attraction to a higher union. This card could also be called The Celestial Mandate -- that which refers us back to our reason for being, our mission in this lifetime. The Star reminds us that, in a sense, we are agents of divine will in our day-to-day lives. If we let go of the idea that we are supposed to be in control, we can more easily notice and appreciate the synchronicities that are nudging us along. In this way, we become more conscious of the invisible helping hand, and we better understand our place within -- and value to -- the larger cosmos",
         "reverse": "The Star card reversed suggests that you are temporarily alienated from your brilliance and usefulness. You may feel clumsy, unskilled, at odds within your true nature. Perhaps you are forgetting your soul's purpose in this lifetime. Focus on your unique gifts and talents -- their source is divine. It's your job to learn how to apply them in any situation your life offers you.",
@@ -147,6 +201,9 @@
     {  
         "arcana": "Major Arcana",
         "card": "The Moon",
+        "images": {
+            "RiderWaite": "RWS_Tarot_18_Moon.jpg"
+        },
         "brief": "Listen to the body and its unique wisdom. Rely upon your inner resources as your best source of support and security.",
         "upright": "The Moon card refers to a deep state of sensitivity and imaginative impressionability, developed within a womb of deep relaxation. Here we dream and go into trance, have visions and receive insights, wash in and out with the psychic tides, and experience deep mystical and/or terrifying realities beyond our ordinary senses. In a state of expanded consciousness, we cannot always control what happens. The Moon card represents the ultimate test of a soul's integrity, where the membrane between the self and the unknown is removed, and the drop of individuality re-enters the ocean of being. What transpires next is between a soul and its maker.",
         "reverse": "The Moon card reversed suggests that you might be deluding yourself, exaggerating or embellishing your version of a situation. Consider whether you are repeating an emotional, dramatic rendition of events rather than keeping to the bare facts. The temptation to let yourself be swept away emotionally or psychically is understandable, but it doesn't help you find your balanced center in chaotic times.",
@@ -155,6 +212,9 @@
     {  
         "arcana": "Major Arcana",
         "card": "The Sun",
+        "images": {
+            "RiderWaite": "RWS_Tarot_19_Sun.jpg"
+        },
         "brief": "Let your light shine. Be confident in the sacred power of your original nature.",
         "upright": "The Sun card is about the self -- who you are and how you cultivate your personality and character. The Sun's radiance is where one's original nature can be encountered in health and safety. The limitations of time and space are stripped away; the soul is refreshed and temporarily protected from the chaos outside the garden walls. Under the light of the Sun, life reclaims its primordial goodness, truth, and beauty. If one person is shown on this card, it is usually signifying a human incarnation of the divine. When two humans are shown, the image is portraying a resolution of the tension between opposites at all levels. It's as if this card is saying 'You can do no wrong -- it's all to the good!'",
         "reverse": "The Sun card reversed suggests that this is one of two cards that traditionally have no negative meaning. Perhaps you will choose to take extra care to humbly count your blessings and give credit to all that have contributed to your successes. Perhaps you can create a program of giving, volunteering or bringing as many people into your good fortune as you sensibly can. Satisfy your conscience that you are a wise steward of your good fortune.",
@@ -163,6 +223,9 @@
     {  
         "arcana": "Major Arcana",
         "card": "Judgement",
+        "images": {
+            "RiderWaite": "RWS_Tarot_20_Judgement.jpg"
+        },
         "brief": "Let go of your past. The future welcomes you with a bounty of growth and change.",
         "upright": "The Judgement card, sometimes called 'Resurrection', represents the great reunion that the ancients believed would happen once in every age. This was the time when souls are harvested and taken home to their place of origin, outside the solar system. Then the world is seeded with a batch of new souls and the process starts over. From a modern point of view, this great reunion -- which includes every personality that you have ever been and every soul that you have done deep work with -- reunites to consciously complete the process. In a way, we symbolically celebrate this returning to center every year on our birthday. In personal terms, the Judgment Tarot card points to freedom from inner conflicts, and so clear a channel, that the buried talents and gifts of past incarnations can come through an individual in this lifetime. This card counsels you to trust the process of opening yourself, because what emerges is of consistently high quality. You can effortlessly manifest as a multi-dimensional being, and assist in evoking that response from others.",
         "reverse": "The Judgment card reversed suggests that you feel like you are bumping into externally imposed restrictions, even if you thought you had let go of limitations. If that's the case, you need to accommodate those inexplicable blockages wherever they appear, without allowing the growth force rising within you to diminish. Like water, you will find the openings and seep through, to move past whatever has been holding you back. Keep flowing and you will succeed.",
@@ -171,6 +234,9 @@
     {  
         "arcana": "Major Arcana",
         "card": "The World",
+        "images": {
+            "RiderWaite": "RWS_Tarot_21_World.jpg"
+        },
         "brief": "Be serene in knowing you are succeeding in your goal.",
         "upright": "The World card points to the presiding wisdom which upholds life on this and all worlds. In most Tarot decks, it is a female figure that has become our standard World image. She originates in Hebrew, Gnostic, and Alchemical lore, and stands between heaven and Earth as the cosmic mother of souls, the wife of God, and our protector from the karmic forces we have set loose upon the Earth in our immaturity and ignorance. The goddess of The World card invites us into cosmic citizenship -- once we come to realize our soul's potential for it. It announces the awakening of the soul's immortal being, accomplished without the necessity of dying. This card, like the Sun, is reputed to have no negative meaning no matter where or how it appears. If the Hermetic axiom is 'Know Thyself', this image represents what becomes known when the true nature of self is followed to creative freedom and its ultimate realization.",
         "reverse": "The World card is one of only two cards that have no reverse meaning. Nevertheless, it could indicate a slight slowdown in the flow of events or the need for more introspection as events unfold. Practice trusting and relaxing into the nurturing support of the Great Mother Goddess, while things sort themselves out.",
@@ -180,6 +246,9 @@
         "arcana": "The Wands",
         "suit": "This suit, most often called 'Wands' and sometimes called 'Rods' or 'Staves', represents initiative, ambition, drive and desire. This is the suit of enterprise and risk-taking.",
         "card": "Ace of Wands",
+        "images": {
+            "RiderWaite": "Wands01.jpg"
+        },
         "brief": "Be ready to act on imminent opportunity.",
         "upright": "An Ace of this suit in this position symbolizes a pivotal act, or fateful step, that will set loose a chain of events leading toward your desired goal. It refers to a birth or new beginning, the inauguration of an endeavor, and the building of the necessary commitment to see a project or plan through. It personifies an aroused Will that is totally focused, aiming at the bulls-eye.",
         "reverse": "The Ace of Wands reversed suggests that you may be resisting change, which can seem frightening. Nevertheless, it is to your ultimate advantage not to balk even though the situation may seem risky.",
@@ -189,6 +258,9 @@
         "arcana": "The Wands",
         "suit": "This suit, most often called 'Wands' and sometimes called 'Rods' or 'Staves', represents initiative, ambition, drive and desire. This is the suit of enterprise and risk-taking.",
         "card": "Two of Wands",
+        "images": {
+            "RiderWaite": "Wands02.jpg"
+        },
         "brief": "Be patient and observant as you go through the decision making process.",
         "upright": "The Two in this suit, often portrayed as crossed wands, imply a deadlock due to energies working at cross-purposes. This could refer to an internal split -- perhaps a duel between optimistic and pessimistic parts of your psyche, for example -- or some situation where you feel 'damned if you do, damned if you don't.' This could be a standoff with another person or rubbing up against limitations that are currently imposed upon you. This card points to the possibility of creeping self-doubt -- the kind that arises in a situation where one has bitten off more than one can chew. Give yourself a moment to take in the full implications of your situation. Find your bearings again before launching back into action. Deal with real concerns now -- before they become regrets!",
         "reverse": "When decision-making stymies you, look within your Self for the solution. The Two of Wands reversed suggests someone who is momentarily stuck in the process of decision making. You feel like you are in an all-too-familiar hall of mirrors, unable to recognize the real doorway amidst the many reflected images of it. Bear in mind that your future self already knows what choice you made. When you can calm down and access the part of yourself that already knows there is a way out, your options will become clear again.",
@@ -198,6 +270,9 @@
         "arcana": "The Wands",
         "suit": "This suit, most often called 'Wands' and sometimes called 'Rods' or 'Staves', represents initiative, ambition, drive and desire. This is the suit of enterprise and risk-taking.",
         "card": "Three of Wands",
+        "images": {
+            "RiderWaite": "Wands03.jpg"
+        },
         "brief": "Go with your intuition. This is the time to make your move.",
         "upright": "A Three in this suit symbolizes an inner balance that allows you to feel more optimistic about new endeavors you are committed to, or want to commit to. In the illustrated Tarots, the human character is standing on his balcony, watching ships leave the harbor, loaded with his goods for far-off ports, dreaming of the fortune he will reap if all goes well. Summon the optimism within you. This energy must be patient and trusting, because he or she will have to wait some time to find out how the ships have fared. Meanwhile, a lot of resources are tied up until they return with the bounty. Only those truly confident in their ideas and abilities would undertake such a risk. This card represents the energy a person needs to take on great adventures and accomplish noble (and remunerative) deeds. A detail that sometimes appears in the more esoteric Tarots is a winged wand with two snakes twining around it, called the Caduceus, which is Mercury's wand. This is an ancient symbol of the healer or shaman, one who can travel between the worlds to rescue souls from death or possession. Perhaps the feeling of empowerment this card represents points to the internal mechanisms of self-healing. Perhaps it refers to the courage it takes to be an entrepreneur or an inventor, which is in itself a magical process -- bringing not only opportunity for success, but also an awakening to higher potentials.",
         "reverse": "Rest will restore lack of drive and optimism. The Three of Wands reversed points to a temporary lapse of drive or will. You might have overdone things and burned the candle at both ends. Give yourself some time to rest and relax. When you're feeling restored, another look at existing circumstances will assure you that prospects are still bright no matter what the immediate setbacks might be.",
@@ -207,6 +282,9 @@
         "arcana": "The Wands",
         "suit": "This suit, most often called 'Wands' and sometimes called 'Rods' or 'Staves', represents initiative, ambition, drive and desire. This is the suit of enterprise and risk-taking.",
         "card": "Four of Wands",
+        "images": {
+            "RiderWaite": "Wands04.jpg"
+        },
         "brief": "Exchanging ideas and proposals for addressing a universal need ensures approval and support.",
         "upright": "A Four in this suit is the teamwork card, often symbolized by two couples who have come together to create something profitable and enduring. Quite likely, they will create a gift for the future -- a business, hospital, theater or university. They represent the founding families of the future community that will grow around their inspiration. Teamwork is the key. It takes time to build a grand vision; and other people of ambition and talent must be attracted to it for it to fulfill its potential. What we see here is the start-up arcana, the founding visionaries committing their energies to designing the blueprints and laying the groundwork. This partnership is the prototype for society or any arcanaing where the whole is greater than the sum of the parts.",
         "reverse": "Seek stimulation from imaginative individuals to sustain your creative powers. When the Four of Wands is reversed, you may be losing touch with the needs of others; your inherent problem-solving skills could go dormant. You need stimulation and contact with creative individuals of a like mind. Consciously seek it out because it's not going to come to you.",
@@ -216,6 +294,9 @@
         "arcana": "The Wands",
         "suit": "This suit, most often called 'Wands' and sometimes called 'Rods' or 'Staves', represents initiative, ambition, drive and desire. This is the suit of enterprise and risk-taking.",
         "card": "Five of Wands",
+        "images": {
+            "RiderWaite": "Wands05.jpg"
+        },
         "brief": "Identify your passions and build your mission around them.",
         "upright": "The Five of this suit symbolizes struggles caused by ambitious maneuvering and a competitive urge. This could be about someone who is pushing his or her agenda forward at the expense of others. There can be a fine line between demonstrating personal excellence and making others feel like losers. It may be necessary to ask yourself, who is it that really benefits when we all fight so hard for such small rewards? Am I serving a negative, manipulative agenda when I start applying battle metaphors to business? Even when your only motive is to be the best you can be, it is understandable to want recognition for what is fine and unique about you. However, minimize the number of egos bruised in the process or your success will be celebrated alone.",
         "reverse": "When team spirit fails despite all effort, your inner strength can pull you through. When the Five of Wands is reversed there is no way to completely overcome the competitive environment; you are unable to bond with potential partners in a team spirit. You must fall back on your own sense of mission and sense of survival to provide direction.",
@@ -225,6 +306,9 @@
         "arcana": "The Wands",
         "suit": "This suit, most often called 'Wands' and sometimes called 'Rods' or 'Staves', represents initiative, ambition, drive and desire. This is the suit of enterprise and risk-taking.",
         "card": "Six of Wands",
+        "images": {
+            "RiderWaite": "Wands06.jpg"
+        },
         "brief": "Fearlessly act on your convictions and others will be inspired to support your ideals.",
         "upright": "The Six of this suit points to the respect and acknowledgment due to you for your efforts to solve the problems of your community. The image is usually of a victory parade, after the celebrated leader helped troops win a pivotal battle. It took the whole tribe to win the victory, of course, but it was the leader's heroism and clarity under pressure that inspired them to overcome. The team is thrilled that the leader led them to victory. This card points to a time to let everyone relax and celebrate -- if you are the leader, let them applaud you. They are seeing their better selves reflected in you -- a victory indeed!",
         "reverse": "The Six of Wands reversed encourages you to agree to take a leadership role even if it's uncomfortable. Along with the admiration and privileges of a leadership role comes the pressure of people's expectations and a certain lack of privacy. You cannot hold up your good side twenty-four hours a day, so surrender to the reality that you will be more visible and accountable now, warts and all. Adjust your behavior to accommodate this predicament.",
@@ -234,6 +318,9 @@
         "arcana": "The Wands",
         "suit": "This suit, most often called 'Wands' and sometimes called 'Rods' or 'Staves', represents initiative, ambition, drive and desire. This is the suit of enterprise and risk-taking.",
         "card": "Seven of Wands",
+        "images": {
+            "RiderWaite": "Wands07.jpg"
+        },
         "brief": "Rouse your ambition and the competitive aspects of your nature to push beyond limits. Launch yourself.",
         "upright": "The Seven of this suit generally shows a person who is nearly always successful in working his or her will in the world. This is a person who is truly gifted, standing head and shoulders above the rest. This person sets standards and sets examples that exceed previous conceptions of what is possible. In historical Tarot, this person would most likely be portrayed as an admired and feared warrior who has vanquished his adversaries against all odds. Such an outstanding feat could just as easily apply to the world of the media, politics or business. Beware of conceitedness that can be hinted at by this card. Being successful does not make you invincible, and it does not protect you against errors! Enjoy your 'fifteen minutes of fame' and then get back to your tasks, or your head will swell, to the detriment of your ability to succeed again.",
         "reverse": "Coming to terms with lack of motivation could boost your self-esteem. When the Seven of Wands is reversed you may be actively resisting the expenditure of time and energy required to make yourself useful. You are capable of being a role model but are having trouble accepting the challenge. Until you come to terms with your lack of motivation, you are letting yourself down by allowing your self-esteem to shrink.",
@@ -243,6 +330,9 @@
         "arcana": "The Wands",
         "suit": "This suit, most often called 'Wands' and sometimes called 'Rods' or 'Staves', represents initiative, ambition, drive and desire. This is the suit of enterprise and risk-taking.",
         "card": "Eight of Wands",
+        "images": {
+            "RiderWaite": "Wands08.jpg"
+        },
         "brief": "Recent successes provide confidence to accomplish more.",
         "upright": "The Eight of this suit often shows a flight of spears or staffs moving through the air in formation, as if a hidden arcana of archers had let them fly all at once. This can refer to swiftly unfolding events, whether of unintentional or intentional design. There are also versions that emphasize the agricultural cycle, paralleling the yearly crop cycle with the swift growth of children into adults with children of their own. In each case, the emphasis is on the necessity of change and the challenge of keeping up with it. With the turning of the seasons, we are constantly being forced to deal with change and there is no remedy but to live with that in mind. So, get busy -- there is no time to waste!",
         "reverse": "Awaken to the changes that are happening in your life; denial does not serve you. When the Eight of Wands is reversed, it is tempting to deny that a powerful chain of consequences has been unleashed in your life. It's very important that you awaken to the changes happening all around you. This is not a good time for you to assume that everything is fine the way it is.",
@@ -252,6 +342,9 @@
         "arcana": "The Wands",
         "suit": "This suit, most often called 'Wands' and sometimes called 'Rods' or 'Staves', represents initiative, ambition, drive and desire. This is the suit of enterprise and risk-taking.",
         "card": "Nine of Wands",
+        "images": {
+            "RiderWaite": "Wands9.jpg"
+        },
         "brief": "There is an important place for rest and recuperation in any endeavor.",
         "upright": "The Nine of this suit usually indicates a need for rest; some time out to mend wounds and savor victories. Although it may be hard to do, this card would have you leave the field to fresher teammates for now. Release any attachment you may feel to being in a leadership role for now. In the pictured Tarot decks, the protagonist is shown as too exhausted to be effective in defending his gains, yet resisting the suggestion to ask for help or step down. He or she hasn't had the chance to totally heal from past blows, and is still up there taking another beating. This is the fix that comes from making oneself irreplaceable. Fight off the maniacal thought that only you can save the day! Stop rejecting loved ones who want to help you.",
         "reverse": "Avoid a situation that seems like a losing battle. Seek new perspective. When the Nine of Wands is reversed, it is time to question your motives. Are you truly defending the high ground because of humanitarian motives? Or are you merely competing with others? If you truly don't belong at the forefront when all is said and done, you will not be seen as a hero for obstructing others.",
@@ -261,6 +354,9 @@
         "arcana": "The Wands",
         "suit": "This suit, most often called 'Wands' and sometimes called 'Rods' or 'Staves', represents initiative, ambition, drive and desire. This is the suit of enterprise and risk-taking.",
         "card": "Ten of Wands",
+        "images": {
+            "RiderWaite": "Wands10.jpg"
+        },
         "brief": "Rediscover the idealism and optimism of your youth to reinvigorate your vision.",
         "upright": "The Ten of this suit represents an all-out effort, an obsessive commitment to a task which demands everything you've got. The person shown in decks with pictures is in no position to rest until he makes it inside the stout walls of the well-defended castle in the distance. If he fails, he will become prey for the highway robbers after dark. It doesn't matter that he's overloaded and underfed. With this card, you have to do whatever it takes to get to completion -- nothing can be allowed to interfere.",
         "reverse": "Lack of perspective on your life may impair your progress. The Ten of Wands reversed suggests that you are struggling to get a sense of perspective on the situation. A lack of objectivity may impair your ability to follow through and bring things to closure. Try to rest yourself. Then step back to take another look at the big picture. If you feel too exhausted to work toward long-term goals, rest until your vision clears and you remember why it's worth the effort. Clear perspective leads to stronger motivation.",
@@ -270,6 +366,9 @@
         "arcana": "The Wands",
         "suit": "This suit, most often called 'Wands' and sometimes called 'Rods' or 'Staves', represents initiative, ambition, drive and desire. This is the suit of enterprise and risk-taking.",
         "card": "Page of Wands",
+        "images": {
+            "RiderWaite": "Wands11.jpg"
+        },
         "brief": "Quietly gather information that will help you direct a situation to unity.",
         "upright": "This card is traditionally entitled the Page, but in some modern decks appears as a Princess. This archetype is that of a unique individual, a nonconformist, often something of a bohemian, definitely independent by nature. He or she requires little in the way of affirmation or approval. Perhaps a mischief-maker, often an innovator or inventor, the energy represented by this card will only serve others until he or she figures out how to get others to serve him/her. This person's freedom is so important they would rather go as a peasant among strangers than inherit a fortune with strings attached. Don't be fooled by this humble appearance. This person is a future captain of industry or world leader, now serving an apprenticeship. These people are sometimes seen planting a staff like a flagpole into the earth in the far off wilderness (where they can start fresh without having to make any compromises). You could think of this card as a wild card.",
         "reverse": "Rather than worry about your image, emphasize the beneficial contribution you could make. When the Page of Wands is reversed, you may be overly concerned with your reputation or image. You don't want to be seen as a source of controversy or conflict. Don't overlook the positive contribution you could make. It is urgent that someone stands up for peace, compromise and harmony even if these values had been pushed into the background.",
@@ -279,6 +378,9 @@
         "arcana": "The Wands",
         "suit": "This suit, most often called 'Wands' and sometimes called 'Rods' or 'Staves', represents initiative, ambition, drive and desire. This is the suit of enterprise and risk-taking.",
         "card": "Knight of Wands",
+        "images": {
+            "RiderWaite": "Wands12.jpg"
+        },
         "brief": "Focused action must be taken; appropriate resources are available to draw upon, and the time is ripe.",
         "upright": "This character is traditionally called the Knight, but in some modern decks appears as the Prince. Traditionally, this card indicates the energy of an instigator, a fire-starter, a feisty and easily provoked character who is liable to attack first and ask questions later. This energy is quick to anger and enjoys a fight -- so much so that the thought of a diplomatic solution can provoke a secret disappointment! Nevertheless, he sees himself as trying to help, rescuing the world from its madness by imposing his sense of order upon it. His vices are bossiness, paranoia and a tendency towards overkill. Nevertheless, there are times when his energy is perfectly appropriate, like when his assertively protective nature is defending threatened treasures or interfering with dark forces. The trick is to keep a sense of proportion when this Knight unleashes his fire, because he enjoys intense experiences and is always ready to take it to the next level. Once in awhile, this kind of intensity is called for, but on a daily basis it is exhausting.",
         "reverse": "Give the knowledge or opinion of others a fair hearing; it may better prepare you for your path. When the Knight of Wands is reversed, it indicates a powerful desire for change and transformation, which others may neither understand nor agree with. Take time to listen to them and try to comprehend why they disagree with you, even though you are anxious to get moving. Depersonalize the circumstances a little to gain new perspective. If you consider their point of view and give them the benefit of the doubt, you may be better prepared for what you have to do and how best to do it.",
@@ -288,6 +390,9 @@
         "arcana": "The Wands",
         "suit": "This suit, most often called 'Wands' and sometimes called 'Rods' or 'Staves', represents initiative, ambition, drive and desire. This is the suit of enterprise and risk-taking.",
         "card": "Queen of Wands",
+        "images": {
+            "RiderWaite": "Wands13.jpg"
+        },
         "brief": "Realize you are not in the leadership role right now. Concentrate on a more supportive role that promotes the overall objectives.",
         "upright": "Traditionally, representing the energy of a Queen, this woman represents the natural manager, whose gift is to inspire teamwork and divvy up tasks. She is the one who sees ensures everything runs smoothly. She'll be sweating in the sun along with her family or crew, inspiring everybody to keep up and supporting morale with her infectious energy. She is the best kind of manager to have, because she is like a challenging but encouraging mother, who knows you have it in you. She believes in her charges and they work hard to please her. She is not, however, sentimental. Like a good farmer, she views her crops, her animals, even the people who work for her, as necessary resources for the achievement of the higher goal. If any aspect is no longer productive or cost-effective, she can let them go without a second thought. Do not look to her for sympathy.",
         "reverse": "Reveal any hidden agendas before they alienate partners or associates. The Queen of Wands reversed points to a controlling tendency that is no secret, and the people around you have the insight to perceive what is happening. Don't think your hidden agenda is undetected, and don't deny it if it is brought to light. It's more important that your team members trust you than it is to preserve an image.",
@@ -297,6 +402,9 @@
         "arcana": "The Wands",
         "suit": "This suit, most often called 'Wands' and sometimes called 'Rods' or 'Staves', represents initiative, ambition, drive and desire. This is the suit of enterprise and risk-taking.",
         "card": "King of Wands",
+        "images": {
+            "RiderWaite": "Wands14.jpg"
+        },
         "brief": "The possibility of success is open to you. There are no substantial obstacles.",
         "upright": "Traditionally representing the energy of a dynamic King, this card represents the classic conquering hero. He's a charismatic leader, entrepreneurial and ambitious, always creating new adventures. He does this because he doesn't like to stay home or to have to 'mind the store' -- he gets to feeling restless and bored with the predictable. If you need a crusader, or someone to take on a big challenge, he's your man. He needs a big assignment, and would rather lead than follow. It could be said that he has a bit of an ego, as evidenced in his enjoyment of flattery and praise. A bit of a performer, he overachieves in situations where it will be noticed, but in private he wants to be served and adored like the head lion of a pride. A benevolent dictator, he makes life wonderful for those he loves and just the opposite for those who displease him.",
         "reverse": "The wise use of power is to respectfully recognize the authority of others. When the King of Wands is reversed, there is danger in mistaking empowerment for domination, hence a potential for undermining the autonomy of others. Exercise what you think is the best, most positive use of power. Be on guard against any old tendencies to grab the controls and take over.",
@@ -306,6 +414,9 @@
         "arcana": "The Cups",
         "suit": "The suit in Tarot known as Cups is also referred to as Chalices or Hearts. It represents the emotional and psychic aspects of life -- fantasy, imagination, feelings, love.",
         "card": "Ace of Cups",
+        "images": {
+            "RiderWaite": "Cups01.jpg"
+        },
         "brief": "Remembering that each person and event may possess a precious gem hidden inside. Make a conscious effort to find it.",
         "upright": "An Ace of this suit in this position generally shows a hand holding up an overflowing cup, which gives forth an endless stream of water, wine, blood or soma for the people's refreshment and healing. This card represents an unfailing source of balm for body, heart and soul. It suggests that you can relax into a safety net of love, support and communion.",
         "reverse": "The Ace of Cups reversed warns of a loss of self-esteem, optimism and faith in the abundance that the universe has to offer. Stop to examine what it is that is causing you to lose altitude. It might be the mental food you are feeding yourself. It could be that you are putting too much attention on the outer circumstances and not enough on the nurturing energy that is available to you. Retreat and become harmonious within yourself, until you feel love and trust returning. Reclaim your faith in the abundance of the universe. Make no moves or decisions until you have cleansed yourself of any pessimism and negativity that are haunting you at this time.",
@@ -315,6 +426,9 @@
         "arcana": "The Cups",
         "suit": "The suit in Tarot known as Cups is also referred to as Chalices or Hearts. It represents the emotional and psychic aspects of life -- fantasy, imagination, feelings, love.",
         "card": "Two of Cups",
+        "images": {
+            "RiderWaite": "Cups02.jpg"
+        },
         "brief": "Express the caring that you feel. Reach out to those you hold in your heart, so that they know you are thinking of them.",
         "upright": "The Two in this suit signifies a union of souls. This card traditionally describes a romantic relationship, but also includes the idea that all good friendships and partnerships are based on a natural affinity and a deep mutual understanding. As a personal reflection, it can also signify that your mind and your soul are discovering each other, maybe for the first time. This card also symbolizes a karmic tie, often portrayed by a wreath or figure-eight ribbon twining around the two cups. Occasionally you see a symbol referring to the union of alchemical opposites (as in sacred sex), pictured as a long-necked flask twined with serpents, its mouth spouting flames, sometimes with wings. This image is from Alchemy, indicating the refining and mutually completing effect of a true and lasting love.",
         "reverse": "The Two of Cups reversed indicates that you may be investing too much in a relationship. Sometimes this is a signal that you must stop seeking so much validation from others. It may be that your attentiveness to those around you has overtaxed your psyche, and you have started neglecting yourself as a result. Stop conforming to the demands or narrow criteria of your partner or partners. When you undermine yourself in this way, you undermine your relationships too. You may think you are working extra hard to take care of others, but you are actually abandoning yourself. Eventually that will lead to alienation and resentment.",
@@ -324,6 +438,9 @@
         "arcana": "The Cups",
         "suit": "The suit in Tarot known as Cups is also referred to as Chalices or Hearts. It represents the emotional and psychic aspects of life -- fantasy, imagination, feelings, love.",
         "card": "Three of Cups",
+        "images": {
+            "RiderWaite": "Cups03.jpg"
+        },
         "brief": "Call your family together to support you and trust that the results will be just what you need.",
         "upright": "The Three of this suit is often entitled Consent, or simply Yes. This card resonates with a spirit of agreement, mutual support, encouragement and teamwork. Often pictured as three women celebrating their connectedness in a dance with lifted cups, it could also be called 'sisterhood,' a real mutual admiration society. It points to all the benefits of harmonious relationship.",
         "reverse": "The Three of Cups reversed indicates that you may be frustrating the best efforts of those who love you most. You need to ask yourself what is so important that you would place it above the bonds of love and mutual support. This card puts such a desirable face on maintaining the harmony in relationships that there is cause to wonder why you would deprive yourself of such a valuable asset. Try to find a way to let in some of the love and caring that comes to you. Don't turn away the possibility of harmony and enjoyable contact.",
@@ -333,6 +450,9 @@
         "arcana": "The Cups",
         "suit": "The suit in Tarot known as Cups is also referred to as Chalices or Hearts. It represents the emotional and psychic aspects of life -- fantasy, imagination, feelings, love.",
         "card": "Four of Cups",
+        "images": {
+            "RiderWaite": "Cups04.jpg"
+        },
         "brief": "Renounce the circumstances that have brought you to a standstill.",
         "upright": "A Four in this suit refers to a restless time, where a person may have become dissatisfied with life, and emotionally uncomfortable. Feeling stagnated, longing for change, the heart ponders its options ... as it should.",
         "reverse": "The Four of Cups reversed indicates that you may not be making the reasons for some reluctance you are feeling clear to yourself or others. Some part of you is resisting the flow of events, but you are not admitting your own part in this. It may be manifesting as a sort of foot-dragging or unmotivated, passive-aggressive stalling. Recognize this mood as a symptom of a deeper dissatisfaction and come clean to yourself about your real feelings. There is something to be learned.",
@@ -342,6 +462,9 @@
         "arcana": "The Cups",
         "suit": "The suit in Tarot known as Cups is also referred to as Chalices or Hearts. It represents the emotional and psychic aspects of life -- fantasy, imagination, feelings, love.",
         "card": "Five of Cups",
+        "images": {
+            "RiderWaite": "Cups05.jpg"
+        },
         "brief": "Loss happens on the material plane. Yet what truly belongs to you cannot be taken away.",
         "upright": "The Five of this suit traditionally portrays the mess that is left after an emotional upheaval, such as a tantrum or fit of rage. Consequences run the gamut from a hangover and lost wages, to abuse and ruined relationships. This card is also sometimes called Inheritance, suggesting the cross-generational legacy of such tragedies. Violent family patterns magnified to a much larger scale can become war.",
         "reverse": "The Five of Cups reversed represents a paradoxical situation wherein what seems like the worst thing that could happen actually creates a better circumstance. Any incoherent fear, once expressed and faced, can be transformed into a manageable issue. Then you are liberated from the dread of negative anticipation, wondering if the situation will blow up in your face. You are freer to act authentically as a result of this energy turn.",
@@ -351,6 +474,9 @@
         "arcana": "The Cups",
         "suit": "The suit in Tarot known as Cups is also referred to as Chalices or Hearts. It represents the emotional and psychic aspects of life -- fantasy, imagination, feelings, love.",
         "card": "Six of Cups",
+        "images": {
+            "RiderWaite": "Cups06.jpg"
+        },
         "brief": "Look at your past as a repository of wisdom to be applied judiciously in the present.",
         "upright": "The Six of this suit generally represents a refreshing openness and innocence, a willingness to learn and an optimism that things will get better as we advance together in understanding. The traditional title, The Past, reminds us of our original nature, when we were young and enthusiastic, when anything was possible and the future was an open book. We are to remember that this same freshness, those new possibilities, are always available to us, even now.",
         "reverse": "With the Six of Cups reversed, you can finally close accounts with the emotional undertow that has been part of your life. You can now revisit those wounded places calmly, without the fear that you will be drawn back in. There is no lingering emotional residue or entrenched nostalgia remaining. You have finally digested those past experiences. They can now be put to rest.",
@@ -360,6 +486,9 @@
         "arcana": "The Cups",
         "suit": "The suit in Tarot known as Cups is also referred to as Chalices or Hearts. It represents the emotional and psychic aspects of life -- fantasy, imagination, feelings, love.",
         "card": "Seven of Cups",
+        "images": {
+            "RiderWaite": "Cups07.jpg"
+        },
         "brief": "Allow yourself to daydream, for dreams give you creative ideas and solutions and produce wonderful results.",
         "upright": "The Seven of this suit typically refers to works of the imagination, the use of dream and vision to invent a future different than the life one is currently living. This card reminds us that our outcomes are not set in stone. We can raise our hopes and expectations and upgrade our results. Do not be fooled by the title Fantasy which this card is sometimes given -- this card indicates the truly magical quality of awakened imagination.",
         "reverse": "The Seven of Cups reversed reminds you to reawaken to playfulness, joy and curiosity. Perhaps a lack of purpose is having a deadening effect. It's almost as if it is saying that you have forgotten how to dream. As a result, mind and imagination can become dry as a desert where only the harsh light of material reality can penetrate. In such a case, there is no golden glow, there is no higher purpose or magic spark. This is a state of mind that no one should tolerate for long. Find something that restimulates your endorphins -- whether taking a long walk and breathing deep, buying a bouquet of roses and lilies for your kitchen table, or making contact (perhaps through art or meditation) with something good, true and beautiful. Take that step immediately and relieve yourself of the deadening flatness.",
@@ -369,6 +498,9 @@
         "arcana": "The Cups",
         "suit": "The suit in Tarot known as Cups is also referred to as Chalices or Hearts. It represents the emotional and psychic aspects of life -- fantasy, imagination, feelings, love.",
         "card": "Eight of Cups",
+        "images": {
+            "RiderWaite": "Cups08.jpg"
+        },
         "brief": "Look deep within to understand what motivates an occasional tendency to be pessimistic or depressed.",
         "upright": "The Eight of this suit is often used to signify a disappointment, emotional setback, betrayal or injury to the heart. Some Tarot decks illustrate this principle showing a young woman who has just been molested and then cast aside by a stranger passing through her village. His heartless act has left her vulnerable, with potentially drastic consequences. This is a difficult card, but a realistic one, insofar as it warns against misplaced trust and unguarded vulnerability.",
         "reverse": "The Eight of Cups reversed suggests that you may have experienced a terrible event, yet you have somehow not allowed it to ruin your life. You don't indulge in the kind of emotional agony this card generally represents, which may be a sign that you are more resilient than others; you bounce back from setbacks. Under the circumstances you are doing fine. You are learning to transform disappointments into a will to change. Your resilience converts adversity into positive accomplishment.",
@@ -378,6 +510,9 @@
         "arcana": "The Cups",
         "suit": "The suit in Tarot known as Cups is also referred to as Chalices or Hearts. It represents the emotional and psychic aspects of life -- fantasy, imagination, feelings, love.",
         "card": "Nine of Cups",
+        "images": {
+            "RiderWaite": "Cups09.jpg"
+        },
         "brief": "The best faculties to use in this situation are the intuitive ones.",
         "upright": "The Nine of this suit is sometimes titled Happiness, but it is also known as Victory. The image on several versions of this card often shows an innkeeper doing a brisk business and feeling very happy about it all. The rewards of high achievement are not all monetary, however. This happiness also refers to the feelings of fulfillment that come from good service to the community and support of one's family, as well as gratitude for all the blessings in one's life.",
         "reverse": "The Nine of Cups reversed suggests that you are getting what you thought you wanted, but it's not what you really want at all. The defect may not be in the thing itself, but in the surprise of discovering that your dream come true doesn't make you feel like you expected it would. This is an essential lesson in life. When you set a goal, specify how you want it to feel in your life, not just what you want to be, do or have. You will get much more fulfillment from your manifestations if you go about it in this way.",
@@ -387,6 +522,9 @@
         "arcana": "The Cups",
         "suit": "The suit in Tarot known as Cups is also referred to as Chalices or Hearts. It represents the emotional and psychic aspects of life -- fantasy, imagination, feelings, love.",
         "card": "Ten of Cups",
+        "images": {
+            "RiderWaite": "Cups10.jpg"
+        },
         "brief": "Share abundantly with all the levels of people who are involved in this creative endeavor.",
         "upright": "The Ten of this suit traditionally signifies family and community, often showing a celebratory scene including many generations, crowned by a rainbow signifying the end of hard times. See this vision -- love and support extending in all directions -- a huge emotional safety net for everyone.",
         "reverse": "The Ten of Cups reversed suggests that a arcana's collective good will is damaged and its safety net is fraying. Personal judgments and rejection abound. Things are being said and done that will be regretted later. Someone has to make the first move in a more positive direction, leaving judgment and criticism behind. Mediation is called for in order to re-establish some mutual trust and support. This person will provide an example for others to follow -- or the team endeavor will dissolve. The storm which precedes the rainbow is not yet over.",
@@ -396,6 +534,9 @@
         "arcana": "The Cups",
         "suit": "The suit in Tarot known as Cups is also referred to as Chalices or Hearts. It represents the emotional and psychic aspects of life -- fantasy, imagination, feelings, love.",
         "card": "Page of Cups",
+        "images": {
+            "RiderWaite": "Cups11.jpg"
+        },
         "brief": "Make yourself fully available for whatever is needed.",
         "upright": "This card is traditionally entitled the Page, but in some modern decks appears as a Princess. In this suit this card represents a poetic, mystical, emotionally open young person, still tender and idealistic, given to flights of imaginative fantasy. This energy is exquisitely refined and fine-tuned. It may be that a sense of being grounded in reality has not yet entirely set in, such that he or she is easily tossed about by external forces and events. This person must work to achieve a stronger will and a more calculating mind, to balance and protect all that wonderful sensitivity.",
         "reverse": "When the Page of Cups card is reversed it suggests that those around this Page, or Princess, have been tolerant of his or her self-indulgent feelings. In reality, they don't owe you this service. If you impinge upon their good nature too much, you may be unpleasantly surprised by the results. Be sure you start making their desires and well-being a higher priority.",
@@ -405,6 +546,9 @@
         "arcana": "The Cups",
         "suit": "The suit in Tarot known as Cups is also referred to as Chalices or Hearts. It represents the emotional and psychic aspects of life -- fantasy, imagination, feelings, love.",
         "card": "Knight of Cups",
+        "images": {
+            "RiderWaite": "Cups12.jpg"
+        },
         "brief": "This is the moment to apply yourself fully.",
         "upright": "This card is traditionally entitled the Knight, but in some modern decks appears as the Prince. Traditionally, this card in this suit has pictured a homecoming -- portraying a return to his true heart's home after a long journey. Like the prodigal son, he may be returning after long estrangement from all he holds dear. His taste for adventure is exhausted -- there is no more romanticizing of battles or travel in strange lands. Now he wants to go where he will be recognized, wanted and welcome -- where he doesn't have to fight at every turn. He has the attitude of one who has become older and wiser, the prodigal son.",
         "reverse": "The Knight of Cups reversed continually looks for excuses or a way to blame his problems on someone else. He is not mature enough to realize that until he takes personal responsibility for the way things are in his life, he will continue to add to conflict rather than exercising his natural helping and healing powers.",
@@ -414,6 +558,9 @@
         "arcana": "The Cups",
         "suit": "The suit in Tarot known as Cups is also referred to as Chalices or Hearts. It represents the emotional and psychic aspects of life -- fantasy, imagination, feelings, love.",
         "card": "Queen of Cups",
+        "images": {
+            "RiderWaite": "Cups13.jpg"
+        },
         "brief": "Exercise your empathy. Be nurturing to others in a way that allows them to understand what it is all about.",
         "upright": "Traditionally, representing the energy of a Queen, this card traditionally portrays a sensitive, vulnerable, omniscient woman who offers unconditional love. She is supremely empathic -- sometimes to a fault. Her caring nature exposes her to everybody else's emotions and needs. This person sometimes has difficulty identifying her own best interests in the midst of her responsiveness to others. As a result, she sometimes appears slightly unfocused or perhaps overwhelmed, filled as she is with 'spirits'. She represents the Grail Queen, as well as the Goddess of the Family.",
         "reverse": "The Queen of Cups reversed suggests that you stop all efforts to dull your pain or distract yourself from it. Looking the other way is not going to help you anymore. Neither is trying to rationalize away or control the situation. You must be emotionally honest. Be honest with yourself, and others who may be involved in what you are going through. If you continue to anesthetize the hurt, it won't rise to the surface and be released. Coping strategies that rely on distracting yourself from reality only serve to entrench the problem.",
@@ -423,6 +570,9 @@
         "arcana": "The Cups",
         "suit": "The suit in Tarot known as Cups is also referred to as Chalices or Hearts. It represents the emotional and psychic aspects of life -- fantasy, imagination, feelings, love.",
         "card": "King of Cups",
+        "images": {
+            "RiderWaite": "Cups14.jpg"
+        },
         "brief": "Support others with your strength and wisdom.",
         "upright": "Traditionally, representing the energy of a King, this card usually portrays a watery background, with a man seated on a throne, holding the Cup of Mystery in his hand. Occasionally, his cup is fulminating like the mouth of a volcano, emanating light, but never boiling over. The man in this card doesn't need to speak to communicate strength, passion and commitment. Sometimes he is robed like a priest or shaman. Intense and intuitive, he is a force to be reckoned with.",
         "reverse": "The King of Cups reversed is bitterly holding a grudge or some hatred -- withholding his natural propensity for forgiveness and blessing. This reversal creates an emotional vacuum around him and deprives him of serenity. His prodigious powers of empathy and compassion are wasted in favor of rehashing the past and feeling sorry for himself. Dispel the storm clouds, admit the hurt, forgive and embrace. Let the sunshine of peace and benevolence back into the picture.",
@@ -432,6 +582,9 @@
         "arcana": "The Swords",
         "suit": "This suit represents the rational mind and its ability to discriminate. Swords cut through things in order to pierce illusion, to differentiate between fantasy and reality.",
         "card": "Ace of Swords",
+        "images": {
+            "RiderWaite": "Swords01.jpg"
+        },
         "brief": "Stay focused and resolute, for you are about to reach your objective.",
         "upright": "In the image of this Ace, a single upraised sword represents your prime motive or guiding ideal -- the vision that guides you through life's changing fortunes with single-minded clarity. The sword is sometimes shown piercing a silver and/or laurel crown, a symbol of optimism implying evolution, progress, a sense of hope and victory. It is occasionally shown pointed downwards -- a darker message, which refers to sacrifice, challenges and a critical environment.",
         "reverse": "The Ace of Swords reversed suggests that you are not allowing yourself to see the one thing that matters most. You may be using reason to create rather than cut through obstacles. Stop clinging to illusions. Look again at your biases, the preconceptions you bring to situations. Ask yourself how you could represent circumstances in a less self-serving manner and perhaps get a better outcome. Reexamine your perspective so you can help break down barriers.",
@@ -441,6 +594,9 @@
         "arcana": "The Swords",
         "suit": "This suit represents the rational mind and its ability to discriminate. Swords cut through things in order to pierce illusion, to differentiate between fantasy and reality.",
         "card": "Two of Swords",
+        "images": {
+            "RiderWaite": "Swords02.jpg"
+        },
         "brief": "Wait until the timing is right and all the facts are clear before taking action.",
         "upright": "The Two in this suit usually represents conflicting ideas or visions. These must be reconciled by communication in order to arrive in a harmonious place or to complete strategic negotiations. Mixed signals prevail. While they may be appearing to try to communicate, opposite sides are missing each other entirely, with possibly drastic consequences. In the best case, a frank discussion would clear the air and serve both sides, but one cannot expect that in every instance where this card appears.",
         "reverse": "When the Two of Swords is reversed (i.e. upside-down), it suggests creative disagreements that can lead to the realization that two heads are better than one. You have the capacity to create synergy or at least provide common ground where argument once prevailed. It is precisely the moment when you think that you are absolutely right that you need the views of others the most. Rather than think you have all the answers, gather input and feedback.",
@@ -450,6 +606,9 @@
         "arcana": "The Swords",
         "suit": "This suit represents the rational mind and its ability to discriminate. Swords cut through things in order to pierce illusion, to differentiate between fantasy and reality.",
         "card": "Three of Swords",
+        "images": {
+            "RiderWaite": "Swords03.jpg"
+        },
         "brief": "It might be healthier to disentangle yourself and start fresh.",
         "upright": "Traditionally, the Three of Swords signified separation or the breakup of a significant relationship, including the tragic emotions that come along with such an event. Some cards show the horizon filled with storm clouds and flashing lightning. The positive side of this card would be the ending of draining or frustrating associations, to become free again. One message this card brings is to cut some things loose. In spite of sentimental memories and emotional attachments, we need to let go of relationships that either cannot live up to their promise or have outlived the pleasure and support we once found in them.",
         "reverse": "The Three of Swords reversed suggests that a storm is clearing, feelings are mending, communication skills are improving, accusations and paranoia are diminishing. The necessity of conflict seems to be draining away, a change that is worth being grateful for, even though some challenges may still arise from this episode.",
@@ -459,6 +618,9 @@
         "arcana": "The Swords",
         "suit": "This suit represents the rational mind and its ability to discriminate. Swords cut through things in order to pierce illusion, to differentiate between fantasy and reality.",
         "card": "Four of Swords",
+        "images": {
+            "RiderWaite": "Swords04.jpg"
+        },
         "brief": "Concentrate less on the opinions and biases of others. Be open to intuition and insight from a deeper source.",
         "upright": "A Four in this suit sends a message to take some time out, surrendering worldly concerns and retreating to a sheltered place of serenity away from the hustle and bustle. The oldest Tarot card images suggest a visit to the tombs of our ancestors, a place to contemplate your mortality and breathe in the dust of those who brought you here. A vision quest or pilgrimage to one's own center allows us to contemplate our roots, values and goals. Here you will see your place in the flow of time ... and unfolding generations.",
         "reverse": "The Four of Swords reversed suggests that even though solitary contemplation can be a great pleasure, it should be balanced with appropriate interpersonal communications. Isolation in this situation can, in some cases, be counterproductive. It may be necessary to seek help or counsel to intervene with an energy-draining pattern. Try to supply yourself with enough human contact, preferably of a therapeutic or, at the very least, a supportive kind, so if you get stuck in an emotionally painful position, you will have a safety net in place.",
@@ -468,6 +630,9 @@
         "arcana": "The Swords",
         "suit": "This suit represents the rational mind and its ability to discriminate. Swords cut through things in order to pierce illusion, to differentiate between fantasy and reality.",
         "card": "Five of Swords",
+        "images": {
+            "RiderWaite": "Swords05.jpg"
+        },
         "brief": "Challenge the pessimism of others around you by evoking their higher nature.",
         "upright": "Traditionally, the Five of this suit references the grim and sobering process of cleaning up the battlefield after a conflict. The war as a whole has not been won or lost yet, but in this skirmish there were grievous casualties. This card admonishes the loser to study carefully what went wrong, so that a new strategy can be devised and more setbacks forestalled. There is a need to rearcana and rethink the game plan, discover your blind spots and weak links, and take corrective measures before getting back into the field for another round. In these modern times, when the battle is more often being waged with words, laws and contracts instead of weapons, we have even more reason to examine our approach, our style, strengths and weaknesses. If we have underdeveloped communication skills or lose our objectivity in tense moments, our ability to reach our goals and dreams will decline. But, if we avoid letting ourselves be haunted by the misfortunes and detours that inevitably befall us, we will go on to achieve those goals. Do not obsess. Try to learn something.",
         "reverse": "The Five of Swords reversed suggests that you are finally gaining some mastery over competitive or combative impulses. This suggests that you may be outgrowing tendencies towards being automatically judgmental or critical. If this is true, you are successfully letting go of that part of your personality which tends to magnify others' flaws and weaknesses. Much to your credit, you are using your life force in a more creative and positive way. Having overcome conflicting impulses, you now use your energy in a positive way.",
@@ -477,6 +642,9 @@
         "arcana": "The Swords",
         "suit": "This suit represents the rational mind and its ability to discriminate. Swords cut through things in order to pierce illusion, to differentiate between fantasy and reality.",
         "card": "Six of Swords",
+        "images": {
+            "RiderWaite": "Swords06.jpg"
+        },
         "brief": "Others will be grateful that you responded quickly to the need for immediate action.",
         "upright": "The Six of this suit has generally been associated with the objectivity of scientific method, employed through the generations to sift fact from superstition, build facts into theories, and theories into laws which we can trust and use to improve our lives. One early title for this card was The Navigator -- one who has learned enough about the relation between the Earth and the heavens to be able to set a course across trackless oceans and arrive at a chosen spot on distant shores. At the time of the first Tarot decks, this skill was considered akin to magic, so few were the individuals who understood the principles involved. So the person who draws this card is being typified as a person with special knowledge, an insight into sophisticated techniques that may be powerful enough to effect a rescue in a dangerous time. Other related titles that are common to this card are The Path (out of danger) and The Way Through.",
         "reverse": "When the Six of Swords is reversed, you are not using your rational, scientific, systematic, logical mind to its fullest potential. As a result, you are compromising your objectivity and limiting your perception of possibilities in the situation. Make an effort to regain objectivity and confirm your original goals. Try moderating your emotions while increasing mental discipline and focus; this will enable you to return to the fruitful pursuit of your plans.",
@@ -486,6 +654,9 @@
         "arcana": "The Swords",
         "suit": "This suit represents the rational mind and its ability to discriminate. Swords cut through things in order to pierce illusion, to differentiate between fantasy and reality.",
         "card": "Seven of Swords",
+        "images": {
+            "RiderWaite": "Swords07.jpg"
+        },
         "brief": "Discipline yourself to stay focused on the desired outcome and you will make your way past all competing circumstances.",
         "upright": "The Seven of this suit typically refers to mental preparedness, acquired through the use of imagination, including the rehearsing and visualizing of desired results. This card represents the positive mental habits of a natural winner. The image most often associated with this card is that of a canny warrior who has infiltrated into the enemy camp on the eve of a fateful battle, checking out their preparations and stealing their swords. Such a move is guaranteed to demoralize the enemy and undermine their performance in the upcoming confrontation. Putting it in modern terms, one who draws this card needs to work smarter, not harder. Think long and deep, study all the angles and put yourself in the shoes of your competition. As a result, you will have such a thorough grasp of the whole situation that there will be no surprises -- and no excuses for anything but success. Skillful preparation justifies the optimism of the natural winner.",
         "reverse": "When the Seven of Swords is reversed it reminds us that even heroic effort sometimes does not fully succeed or goes unappreciated. If you have done the best you could do and responded to the calls of conscience appropriately, you are still a noble soul. When situations resist being helped, don't blame yourself for setbacks. At least you know in your heart that you gave it your best effort.",
@@ -495,6 +666,9 @@
         "arcana": "The Swords",
         "suit": "This suit represents the rational mind and its ability to discriminate. Swords cut through things in order to pierce illusion, to differentiate between fantasy and reality.",
         "card": "Eight of Swords",
+        "images": {
+            "RiderWaite": "Swords08.jpg"
+        },
         "brief": "Rise to the occasion with confidence in your talent and ability.",
         "upright": "Often called 'The Test,' the Eight of this suit usually pictures a warrior running the gauntlet, subjected to harsh examination, who finds out just how tough he or she is (or isn't) in the process. Life provides us with plenty of experiences that put us in situations of close scrutiny -- whether it's an entrance exam, a decisive job interview or even the tough conversations that follow upon a breach of trust in a close relationship. Sometimes the challenge or obstacle course has nothing to do with other people, as when an inventor has to face the question 'Does it really work?' or when the aspirant has to decide how badly he desires to go through some sort of initiation. This card shows what happens to that great idea in real time, where the rubber meets the road. The Test represents your chance to vindicate the time and energy spent in getting ready for a big moment. In most cases, you will either pass or fail, with little in the way of available middle ground.",
         "reverse": "When the Eight of Swords is reversed, there is a tendency to rationalize, justify and project blame onto others. Be sure you are not doing that. Judge yourself by the standards you hold your adversary to, before you get caught in a trap of your own making. Focus your inner dialogue and your conversations with others on what you can do to produce positive change. Inspire others to see the high ground and join you there. You can't complain about the bad attitudes of your adversaries if you have one too.",
@@ -504,6 +678,9 @@
         "arcana": "The Swords",
         "suit": "This suit represents the rational mind and its ability to discriminate. Swords cut through things in order to pierce illusion, to differentiate between fantasy and reality.",
         "card": "Nine of Swords",
+        "images": {
+            "RiderWaite": "Swords09.jpg"
+        },
         "brief": "Honestly admit to yourself that you have sacrificed time and energy on a situation that simply does not work.",
         "upright": "The Nine of this suit has a special resonance with the Middle Ages, because it figures the plight of a woman who is alone in the world, during the centuries when women had no personal rights, no ability to inherit property or use the law in their own defense. We generally see her sitting up in bed weeping, grieving and in fear of abandonment because of her vulnerability, wondering what will happen to her now that her protector (father, brother, husband, or son) is gone. The swords above her head may indicate that the loss has come through some cruel conflict, the outcome of which has left her behind as chattel, the spoils of war. Really what we are looking at is the price of pride, which creates losers as a side effect of glorifying winners. The woman in the picture represents the concerns of the heart, the damage to the soul and to vulnerable ones, when the ego-mind becomes so invested in control and domination that it does not count the human costs. A sensitive, subtle, heartfelt approach to nature (the 'feminine') is trampled and thrown aside in service to a 'winner takes all 'mentality.",
         "reverse": "When the Nine of Swords is reversed, it generally indicates an opportunity to wake up from a long dark period of depression and negativity. Some long dark period is becoming illuminated by optimism. You are finally seeing a light at the end of the tunnel. This is a tremendous breakthrough, and it's a blessing when you turn negative thinking around -- with the power of renewed hope and optimism.",
@@ -513,6 +690,9 @@
         "arcana": "The Swords",
         "suit": "This suit represents the rational mind and its ability to discriminate. Swords cut through things in order to pierce illusion, to differentiate between fantasy and reality.",
         "card": "Ten of Swords",
+        "images": {
+            "RiderWaite": "Swords10.jpg"
+        },
         "brief": "Protect yourself while the storm rages and focus on rebuilding after it passes.",
         "upright": "The Ten of this suit represents finality, the end of something. As is easy to grasp from the picture in many decks, there is no hope for revival here. A limit has been reached, a line has been crossed and there is no turning back. In some situations this may be felt as a tragic loss, but it often brings with it a paradoxical sense of release and closure. The waiting and wondering are over. There is no more ambiguity. You can rightly let go and move on, as there is no more progress to be made here. Emotionally and psychologically, this card appears when one is exhausted and used up, burnt out by the effort of caring and responding and trying to make a difference. When a person feels this way, they have reached burnout and can no longer be held responsible for anything, and therefore can be forgiven for caving in or ceding the fight. The simple instructions are: 'Go no further along these lines!'",
         "reverse": "The Ten of Swords is reversed suggests that you may have been over-dramatizing your predicament. In an attempt to get sympathy and understanding from others, you have begun to believe your own stories and excuses. Ask yourself what you would do if there were no one around to sympathize with you. Would you be making a faster recovery? If you reframe your situation to emphasize the chance to start fresh, things won't seem so bad. Consider the possibility that you are indulging in drama; take a more accurate look at your situation.",
@@ -522,6 +702,9 @@
         "arcana": "The Swords",
         "suit": "This suit represents the rational mind and its ability to discriminate. Swords cut through things in order to pierce illusion, to differentiate between fantasy and reality.",
         "card": "Page of Swords",
+        "images": {
+            "RiderWaite": "Swords11.jpg"
+        },
         "brief": "Circumstances call for anonymous action even if you would prefer to receive credit.",
         "upright": "This card is traditionally entitled The Page, but in some modern decks appears as a Princess. The traditional interpretation is about a messenger, an emissary or liaison between separate camps, charged with faithfully representing one side's communications to the other. Because of this role, we do not think of this person as a servant, but rather as a diplomat, facilitating sensitive negotiations, often under difficult conditions. This person is acting as the eyes and ears of her patron, and so she is sometimes referred to as The Watchman. Even kings are powerless if this messenger chooses to use her access to sensitive information for her own gain, as is implied by her other name, The Spy. She could even be working as a double agent, playing both sides against each other to serve her own agenda. Her title is really camouflage in itself, serving as protective coloration so she can move among the people unrecognized, collecting information anonymously. Her vigilance often conceals an ulterior motive. She is a watcher who must herself be watched, because she dreams of someday taking matters into her own hands, preempting the plans of her employers.",
         "reverse": "When the Page of Swords is reversed, it may be that one's critical tendencies are given too much leeway. Although you may declare a need to state the truth, a primary urge may be to recount another's shortcomings. Analyze your possible prejudice, instead of the weakness of others. Don't take a stand against another until you have cleared any feelings of resentment or a punitive motive -- or else your attitude problem might undermine the truth of your message. Your best work is done when you are most objective. An urge to be overly discriminating destroys objectivity and can lead to conflict.",
@@ -531,6 +714,9 @@
         "arcana": "The Swords",
         "suit": "This suit represents the rational mind and its ability to discriminate. Swords cut through things in order to pierce illusion, to differentiate between fantasy and reality.",
         "card": "Knight of Swords",
+        "images": {
+            "RiderWaite": "Swords12.jpg"
+        },
         "brief": "Refine your communication and negotiation skills so you are at peak effectiveness.",
         "upright": "This card is traditionally entitled The Knight, but in some modern decks appears as The Prince. Traditionally, this card portrays the restless mind, aroused by thoughts of offense and defense, storming around searching for a target to pounce on. He often feels slighted, has a chip on his shoulder and bristles with a hostile attitude. His usual method is to look for someone to blame for his irritation. Furthermore, in an attitude of righteousness, he may assign himself the job of correcting the offender. Jumping easily to conclusions, he shoots first, asks questions later and is therefore often guilty of overkill. This is not to say that he does not have his heroic side; a single-minded combativeness can have its value. However, even when he is doing the right thing, he is likely to be doing it for the wrong reasons. Apt advice for this card is to deeply question your motives for what you are thinking about doing. Forethought will assist you in discriminating between righteous and unrighteous causes. Control any traces of impulsive judgement! Occasionally you will notice in the detail on the card, that the person can be a woman rather than the expected man. There is some evidence that the tradition of knighthood included a certain number of 'anonymous knights' who took mythic names and veiled their true identities. Living on the road with few or no servants, they served as freelance defenders of travelers, champions of the little people against the exploitation of both highway robbers and the wealthy classes. Odds are that some of these knights-errant were camouflaged women, and that idea is preserved with the traditional representation of the Sword Knight.",
         "reverse": "When the Knight of Swords is reversed, fear of conflict is so powerful that you will bargain away all that is meaningful just to get through, or out of, a tough situation. You will say what you don't mean, promise what you can't deliver and hope to be saved by a miracle, just to see yourself delivered from a stressful time. When you learn to tell the simple truth from moment to moment, you will have no more use for this reactionary behavior that is invariably followed by shame and regret.",
@@ -540,6 +726,9 @@
         "arcana": "The Swords",
         "suit": "This suit represents the rational mind and its ability to discriminate. Swords cut through things in order to pierce illusion, to differentiate between fantasy and reality.",
         "card": "Queen of Swords",
+        "images": {
+            "RiderWaite": "Swords13.jpg"
+        },
         "brief": "Make your own decisions. Exercise as much independence as you know you can handle.",
         "upright": "Representing the energy of a Queen, this feminine power was traditionally known as a widow, crone or divorcee. In modern times, she can be viewed as a model of self-sufficiency, independence and intelligence. She often has extremely high standards due to her subtle sensitivities, which can be perceived by those around her as being critical or hard to please. Her true motive is to refine the world, to upgrade peoples' understanding -- so that everyone can have the space they need to become fully themselves. She is not interested in conforming. She is too intelligent to be confined to the role of housewife or nursemaid, although she is perfectly competent in those areas. She chooses her associations (or her solitude), and is seldom caught up in dependent relationships -- at least not for long. Her intelligence is not always the most comfortable to be around, but she can be counted on to see through superficiality and point to the truth of a situation.",
         "reverse": "When the Queen of Swords is reversed, it indicates a propensity for denying your deepest feelings. Somewhere you decided that speaking up for the emotional truth is selfish and unattractive. As a result, you are prejudiced against your own needs. It is not a flaw to have a heart; it is a flaw to ignore it. Show some compassion for yourself, and in so doing help your loved ones love you better. Don't isolate yourself. Have compassion for yourself. Serving your own feelings and needs is appropriate and necessary.",
@@ -549,6 +738,9 @@
         "arcana": "The Swords",
         "suit": "This suit represents the rational mind and its ability to discriminate. Swords cut through things in order to pierce illusion, to differentiate between fantasy and reality.",
         "card": "King of Swords",
+        "images": {
+            "RiderWaite": "Swords14.jpg"
+        },
         "brief": "Listen to the inner wisdom offered by the wise elder that dwells inside of you.",
         "upright": "Traditionally, representing the energy of a King, this masculine energy form is The Adjudicator, the wise judge or mediator. He helps parties in conflict discover common ground and build upon it, and guides societies to see their greater good. His archetype is Solomon, ancient lawgiver and philosopher of the Old Testament. Sometimes appearing cool and detached, he can be misunderstood as not caring. But emotional displays are just not his medium, nor is he moved by appeals to sympathy or pity. With the philosophical overview that comes from long experience, he listens deeply, watches closely and speaks last. In the end, his even-handedness and objectivity earn him the respect he receives from his community, and those who cannot work out their problems come to him voluntarily for advice. Occasionally this man is subtly detailed to imply that he is a woman in male armor. If you notice this theme in your deck, it is a reference to Joan of Arc, the Maid of Orleans, archetype of a devout and inspired woman warrior, who was mystically led to abandon her social role to defend what she saw as the greater good. Although she was martyred young, her model crystallizes the message that sometimes the good of the whole is more important than the good of the individual, and in that case, even if you lose, you win just for being there.",
         "reverse": "When the King of Swords is reversed, pangs of conscience no longer prick as keenly. It may be that morality and integrity have been compromised. Your inner Wise One must be awakened from that state of blinded self interest and get back to serving the greater good. Hold yourself to a higher standard. Think about what you can contribute, not what you are going to get. Filter the static from your thinking. Relinquish self-absorption and turn your attention to protecting the greater good.",
@@ -558,6 +750,9 @@
         "arcana": "The Coins",
         "suit": "This suit, most often named 'Coins' or 'Pentacles', is a symbol for a magical talisman that represented wealth or potential. This suit represents something supportive that is available to you -- whether it be health, some kind of talent, a material or financial resource.",
         "card": "Ace of Coins",
+        "images": {
+            "RiderWaite": "Pents01.jpg"
+        },
         "brief": "Take small, steady steps toward your long-term goal and you will accumulate magnificent results.",
         "upright": "The Ace of this suit is usually pictured with a garden or agricultural backdrop, and symbolizes a seed. If this 'talent' is planted and tended carefully, it will sprout and reward you with a good harvest. Think of it as a seed of your future fulfillment. An Ace represents the first step to a goal, and if that step is repeated, it will cover great distances. Generally, the suit of Coins are referring to the tangible realities in daily life, but in the case of the Ace, it could be symbolizing a winning idea, game plan or blueprint for eventual materialization. Occult tradition sometimes interpreted this Ace as representing the alchemist's gold -- the light within matter, the 3rd eye of the energy-body. This recommends meditating upon the light within, and pointing oneself toward the archetype of humanity enlightened. By practicing such a meditation, one eventually gains enough control of the celestial radiance to heal the body, untangle the emotions and complete the growth of the soul.",
         "reverse": "The Ace of Coins reversed suggests that you should reconnect with the values you are trying to serve. Perhaps external appearances have to distinguish between true gold and costume jewelry. Search your heart. If your motives aren't clear, your performance won't shine either.",
@@ -567,6 +762,9 @@
         "arcana": "The Coins",
         "suit": "This suit, most often named 'Coins' or 'Pentacles', is a symbol for a magical talisman that represented wealth or potential. This suit represents something supportive that is available to you -- whether it be health, some kind of talent, a material or financial resource.",
         "card": "Two of Coins",
+        "images": {
+            "RiderWaite": "Pents02.jpg"
+        },
         "brief": "Do not allow yourself to be coaxed into premature decisions or actions.",
         "upright": "The Two in this suit generally features a youth juggling, with two coins juggled in figure-eight fashion, or just the coins without the youth -- one heads up, the other tails -- both flipping in the air. It is clear that until one or the other coin drops, the final call can not be made; there is more to learn before a decision can be made about appropriate action. This card counsels patience, so do not allow yourself to be rushed. The figure-eight image is a symbol of immortality and eternity. Its message is 'No need to hurry. You have all the time you need to work this out, no matter how things appear right now.' Implied within this scenario is the idea that changes are in the works, but you will do better to stay calm until you have more information. Everything is in flux at a time like this.",
         "reverse": "The Two of Coins reversed suggests that you let go of passivity if this is a time for action. You may be displaying too much ambivalence about outcomes, much to your detriment. A neutral stance or procrastination will not serve you here. You must move into proactive support for the good of all concerned and leave passivity behind. At the very least, assert your personal preferences as a sign of respect for any others who also display the courage of their convictions.",
@@ -576,6 +774,9 @@
         "arcana": "The Coins",
         "suit": "This suit, most often named 'Coins' or 'Pentacles', is a symbol for a magical talisman that represented wealth or potential. This suit represents something supportive that is available to you -- whether it be health, some kind of talent, a material or financial resource.",
         "card": "Three of Coins",
+        "images": {
+            "RiderWaite": "Pents03.jpg"
+        },
         "brief": "Let the world see your skills and talents.",
         "upright": "The Three is traditionally the card of genius. Here we usually see a master craftsman conferring with his masons on the installation of a beautiful stained-glass window in the cathedral. This designer is often likened to Leonardo da Vinci or Michelangelo, a multi-talented visionary who has no peers in talent or productivity. The masterwork is being proudly showcased for future generations, as an object of personal and collective pride. On some cards, the genius is portrayed at his studio, alone and burning the midnight oil, in a creative ferment -- driven to draw, paint, invent, or whatever work genius wants to bring into creation. As a subtext to the rewards of genius are the days and weeks of intense concentration it takes to solve the problems that great works entail.",
         "reverse": "The Three of Coins reversed suggests that you beware of perfectionism and other subtle forms of egoism. This may be tied to a refusal to share one's gifts and vision with the world. Perhaps you consider the world not worth it or are afraid that others simply won't care. This is really an indirect form of perfectionism that would have you cut off your nose to spite your face. Remember that acts of genius belong more to the divine inspiration that calls them forth than they do to the personalities they come through.",
@@ -585,6 +786,9 @@
         "arcana": "The Coins",
         "suit": "This suit, most often named 'Coins' or 'Pentacles', is a symbol for a magical talisman that represented wealth or potential. This suit represents something supportive that is available to you -- whether it be health, some kind of talent, a material or financial resource.",
         "card": "Four of Coins",
+        "images": {
+            "RiderWaite": "Pents04.jpg"
+        },
         "brief": "Study the responsibilities you have inherited rather than just looking at the advantages they represent.",
         "upright": "A Four in this suit has been used to express the paradoxical aspect of material security -- the two-edged sword of having been well supported and protected. It sounds completely idyllic until one investigates the real demands that prosperity places upon people -- the pressure of big decisions, responsibilities toward dependents or employees, and even tougher decisions in times of insecurity. An immature person thrust into such a position would lack the perspective to sensibly assess risks and rewards, would be vulnerable to bad advice or surprise developments, and could even put the livelihoods of loyal assistants at risk. This card also can refer to the subtler dependencies that comfort encourages, allowing laxness and self-indulgence to quietly degrade one's reserve of will. The character this card represents needs to move slowly and deliberately if change is required, as the consequences will affect more than just her or himself. Note: In the English decks, like Rider-Waite, we see a person who is stuck in their misunderstanding of how the material plane works. He's afraid to let go of his four measly coins, because he doesn't know he has to give in order to get. When looked at this way, this is the card of poverty consciousness.",
         "reverse": "The Four of Coins reversed suggests that instead of looking for ways you can help, you may be allowing resentment to get in your way. Are you are heading into a situation fraught with resentment, as if you feel you are owed something? Instead of looking for how you can help, you may be worrying about how you are going to get paid back. Even if you have everything you need, you still feel impoverished. This attitude constricts the flow around you. This is not an insurmountable obstacle, but you have to work this out before you can make progress.",
@@ -594,6 +798,9 @@
         "arcana": "The Coins",
         "suit": "This suit, most often named 'Coins' or 'Pentacles', is a symbol for a magical talisman that represented wealth or potential. This suit represents something supportive that is available to you -- whether it be health, some kind of talent, a material or financial resource.",
         "card": "Five of Coins",
+        "images": {
+            "RiderWaite": "Pents05.jpg"
+        },
         "brief": "Pooling resources allows you to make bolder moves and larger investments in future projects.",
         "upright": "The Five of this suit is the card of desire and gratification, expressed in classical tradition as flattery and false promises. This card represents both the seducer and the one seduced. There is undeniable excitement in the attraction of opposites; we have all had delightful moments of magnetism with a stranger. However, if promises are only spoken to achieve short-term gratification with no intent of follow-through, or the attraction appears as competition to more fulfilling relationships, the long-term result won't be worth the thrill of the chase. The appearance of a viable relationship does not always bear out, so don't put anything of real value at risk over an infatuation. Since the suit here is Coins, this is as likely to be related to business as to pleasure. Try to remove the influence of glamour from your thinking. Note: In the English decks, like the Rider-Waite, the sickly poor freezing outside a well lit church warn of the painful outcomes of bad choices, rather than focusing on the dynamic tension of the choosing itself.",
         "reverse": "The Five of Coins reversed suggests that you should take a hard look at a situation and root out possible deceptions. Perhaps you are being deceived or you are the one deceiving others (or yourself). There may be a part of you that's so eager to believe in fairy tales or rescue fantasies, that you would fail to check the fine print or a would-be savior's credentials. It's time to start asking the hard questions. If you can't bring yourself to do that, then you cannot succeed in this situation.",
@@ -603,6 +810,9 @@
         "arcana": "The Coins",
         "suit": "This suit, most often named 'Coins' or 'Pentacles', is a symbol for a magical talisman that represented wealth or potential. This suit represents something supportive that is available to you -- whether it be health, some kind of talent, a material or financial resource.",
         "card": "Six of Coins",
+        "images": {
+            "RiderWaite": "Pents06.jpg"
+        },
         "brief": "Think of yourself as someone who can assist others in refining their skills and talents and using them successfully.",
         "upright": "The Six of this suit is the card of patronage -- generosity with strings attached. The picture shows a rich man giving alms, his reputation enhanced from his giving, but without having helped anybody really better him or herself. Sometimes there is an inference that the giver will be expecting something back for his giving, perhaps sexual favors. Sometimes this card is interpreted as referring to some kind of patron or benefactor who rescues a talented person from oblivion, but then wants to dictate what the artist works on as his fame grows. Inequality of power is generally a factor in this card, and the person being helped needs to be careful not to trade off heart and soul for a shortcut to fame or fortune. Each player in this scenario needs to examine the possibility they are taking one side or the other in an unbalanced power struggle.",
         "reverse": "The Six of Coins reversed suggests that the idea of payback may have become too important to you. The reversal of this card points to someone who is too focused on the idea of getting something back. You may have postured yourself to look generous, supportive, understanding, but in the fine print you have created so many binding conditions that there is no way anybody can take you up on the offer. Nobody is fooled by such conditional giving.",
@@ -612,6 +822,9 @@
         "arcana": "The Coins",
         "suit": "This suit, most often named 'Coins' or 'Pentacles', is a symbol for a magical talisman that represented wealth or potential. This suit represents something supportive that is available to you -- whether it be health, some kind of talent, a material or financial resource.",
         "card": "Seven of Coins",
+        "images": {
+            "RiderWaite": "Pents07.jpg"
+        },
         "brief": "Success is won by perseverance. Be resolute in the use of your time and energy.",
         "upright": "The Seven of this suit is typically a paean to the humble laborer who is willing to show up every day and sweat in the sun for next season's bounty. The traditional concept is cultivation, with an attitude that slow and steady wins the race, with faith in nature's assistance. The protagonist of this card doesn't make excuses, isn't whimsical or moody, but is dedicated and sees the job through. Of course, it's no good to count your chickens before they hatch, but there's no question that the person who is vigilant over a project is more likely to get the desired result. Someone who works with nature, cooperating with her ways, will waste less energy and time than the person who works against her. As a side meaning, we sometimes see this normally humble farmer in a moment of frenzy, betting the crop on a roll of the dice. This represents a moment of dementia, addiction or desperation which hopefully will not last long enough for the farmer to lose everything!",
         "reverse": "The Seven of Coins reversed suggests that you may need a warning against doing something rash or taking a gamble. This card is traditionally associated with the idea of someone who is a gambler. This is usually a person who has lost track of the rewards of productivity and self-discipline. Such a person may be willing to bet the farm on the roll of the dice, gambling not only his or her well being but also that of loved ones or others. This card is a warning against doing something rash. It's not too late to reconsider your options.",
@@ -621,6 +834,9 @@
         "arcana": "The Coins",
         "suit": "This suit, most often named 'Coins' or 'Pentacles', is a symbol for a magical talisman that represented wealth or potential. This suit represents something supportive that is available to you -- whether it be health, some kind of talent, a material or financial resource.",
         "card": "Eight of Coins",
+        "images": {
+            "RiderWaite": "Pents08.jpg"
+        },
         "brief": "When you dedicate yourself to producing quality work, you will gain greater freedom all the way around.",
         "upright": "The Eight of this suit is the card of works. We see here the successful artisan spending time at his bench, hammering out the commissions he has attracted because of his skill. This artist is the best in her or his class, so popular that it's become difficult keep up with demand. She is paid whatever she asks and accepts only the most worthy assignments. If there is a problem in this card, it has to do with the trap of workaholism, the feeling of being so indispensable that you will not ask for help or delegate anything. There is also the issue of becoming so identified as the creator of elegant works, that the personal identity of the creator becomes consumed by the works themselves. This artisan seldom gets to have a home life, time off, much time for friends. The solution lies in balancing creative energy with a personal life.",
         "reverse": "The Eight of Coins reversed asks that you not mistake your work for your identity. It is a common error to overly identify with one's livelihood. This card reversed indicates that you are in danger of losing your self to your work. This would be a big mistake. Refuse to accept such a limited definition of who you are.",
@@ -630,6 +846,9 @@
         "arcana": "The Coins",
         "suit": "This suit, most often named 'Coins' or 'Pentacles', is a symbol for a magical talisman that represented wealth or potential. This suit represents something supportive that is available to you -- whether it be health, some kind of talent, a material or financial resource.",
         "card": "Nine of Coins",
+        "images": {
+            "RiderWaite": "Pents09.jpg"
+        },
         "brief": "Realize you are free to create a secure, enduring, and satisfying lifestyle for yourself. Look for ways to share it with those who have helped you along the way.",
         "upright": "The Nine of this suit points to a person who is financially secure enough to live comfortably. This is about someone supported by her own business, inheritance or property. This is one person in a thousand. This fortunate individual has turned a historical accident into a personal opportunity. This is one who has the vision and strength of character to hold onto gains against all odds. Do not be fooled at the apparent ease displayed on this card -- the person pictured is at the tail end of a long and stressful process of winning the right to be taken seriously. All of this grace has been paid for several times over.",
         "reverse": "The Nine of Coins reversed suggests a period of self-discipline is needed to restore your energy and vitality. You may be enmeshed in a situation of dependency or overindulgence. You may be getting a bit sloppy, not in full possession of all your energy and focus. The remedy is austerity and self-discipline. You'll be much healthier -- and happier -- after you have straightened up your act.",
@@ -639,6 +858,9 @@
         "arcana": "The Coins",
         "suit": "This suit, most often named 'Coins' or 'Pentacles', is a symbol for a magical talisman that represented wealth or potential. This suit represents something supportive that is available to you -- whether it be health, some kind of talent, a material or financial resource.",
         "card": "Ten of Coins",
+        "images": {
+            "RiderWaite": "Pents10.jpg"
+        },
         "brief": "You have the potential power to be a benefactor.",
         "upright": "The Ten of this suit represents the final result of cumulative efforts -- perhaps after generations of effort -- resulting in such abundance that it directly and indirectly supports a lot of people. One layer of meaning refers to the pride of supporting your own lineage of well-loved souls. Imagine a flow of abundant resources so abundant that you are filled with not only pride but self-respect and gratitude. Such bounty can impact the destiny of many families and generations. Nobility obligates is possessors, and the obligation must be passed down from generation to generation along with the abundance and freedom.",
         "reverse": "The Ten of Coins reversed suggests that having to make an entirely new start is sometimes a blessing. You may feel as if you have experienced a terrible loss or a fall from grace. This may be true, but both the having and the losing are part of the fluctuating evolution of human consciousness. Sometimes you just have to begin again.",
@@ -648,6 +870,9 @@
         "arcana": "The Coins",
         "suit": "This suit, most often named 'Coins' or 'Pentacles', is a symbol for a magical talisman that represented wealth or potential. This suit represents something supportive that is available to you -- whether it be health, some kind of talent, a material or financial resource.",
         "card": "Page of Coins",
+        "images": {
+            "RiderWaite": "Pents11.jpg"
+        },
         "brief": "The open-minded novice can look at a situation with fresh eyes and get down to the essentials with confidence.",
         "upright": "This card is traditionally entitled The Page, but in some modern decks appears as a Princess. This card's energy has to do with learning about compound interest and abundance. Her attention is focused on learning the natural laws that pertain to natural synergies. Whether the learning is about growing vegetables, the stock market or culturing new medicines in the lab, this Page wants to understand the underlying mechanism that supports the creation of results and abundance. You may see this person in the position of the attendant or junior partner, but that is only a current appearance. That demeanor of humility or servitude will soon enough disappear, as her sense of mastery increases. By studying the example of those around her, successful and unsuccessful, she is building a game plan that will lift her from obscurity and make her successful in her own right. She just has to collect the necessary education and experience, which she is doing right now.",
         "reverse": "The Page of Coins reversed suggests that you should not doubt or resist the impulse to be of service to others. Embrace the discipline that it takes and just do it. You may feel like you are being coerced into it or that being in service is a role you don't want. Perhaps you have doubts about the outcomes your labors are contributing toward. The reality is that you have to work to eat and you have to develop considerable skill in a profession before it can liberate you. Be disciplined -- harness your will as well as your talent.",
@@ -657,6 +882,9 @@
         "arcana": "The Coins",
         "suit": "This suit, most often named 'Coins' or 'Pentacles', is a symbol for a magical talisman that represented wealth or potential. This suit represents something supportive that is available to you -- whether it be health, some kind of talent, a material or financial resource.",
         "card": "Knight of Coins",
+        "images": {
+            "RiderWaite": "Pents12.jpg"
+        },
         "brief": "Your resources will enhance an endeavor significantly and you can reap many blessings as a result of your participation.",
         "upright": "This card is usually called The Knight, but in some modern decks appears as the Prince. Traditionally, this card in this suit pictures an overseer of fertility and growth. His period of ascendancy is during the quiet years between conflicts, when everybody can collaborate in raising the collective standard of living. His horse is usually huge and thickset, more suitable to pulling a plow than riding swiftly into battle. His temperament is easygoing and relaxed, he's moving at the rate of the flow, because he knows that you can't hurry time. Seeing the bigger picture, like a farmer planning for the future, he doesn't allow momentary fads or fancies to distract him, and he doesn't take seriously those who do. One can feel his stability and dedication -- he is totally responsible and even somewhat predictable when it comes to his projects. He is earthy and gentle, as simple and deep as the soil he tills and the flowers he loves.",
         "reverse": "The Knight of Coins reversed suggests that you should stop wasting energy on people who can't appreciate you. Stop throwing good money after bad. Cease wasting your blood, sweat and tears on enterprises dominated by people who can't appreciate you. In this instance, you would benefit the whole situation by moving on instead of being so loyal and true.",
@@ -666,6 +894,9 @@
         "arcana": "The Coins",
         "suit": "This suit, most often named 'Coins' or 'Pentacles', is a symbol for a magical talisman that represented wealth or potential. This suit represents something supportive that is available to you -- whether it be health, some kind of talent, a material or financial resource.",
         "card": "Queen of Coins",
+        "images": {
+            "RiderWaite": "Pents13.jpg"
+        },
         "brief": "Be confident that if you express your truth, you will not have to worry about the consequences. You will remain safe and sound.",
         "upright": "Traditionally, representing the energy of a Queen, this feminine guardian is endowed with enormous good sense and problem solving energy, but she is not particularly entrepreneurial. She loves to advise, encourage, and empower those she gets involved with, studying their problems with them and setting them up to solve them. Traditionally, she was pictured as the Sibyl or Oracle, perhaps a Tarot reader, who made herself available to people in need, no matter what their social class or situation. In modern times, she will be found educating, healing, managing disaster aid programs or a charitable drive of some sort. In every case, she does not see the benefits that exist in her life as belonging solely to her. She feels the needs of her people and will spend freely of her time, energy, skills, money to see that nobody is left out. For this, and because she likes to work in an atmosphere of beauty, enjoyment and abundance, she is sometimes accused of being extravagant. But she works hard, and she sees no reason to deny herself the rewards of a job well done. Everyone who comes in contact with her feels enriched by her enjoyment in living.",
         "reverse": "The Queen of Coins reversed suggests that you should make an objective assessment of the way you manage your life and identify areas that can be improved. This may be a warning against becoming addicted to whatever pleasure has you in its sway. It's important to review the ways you have been spending your time, money and energy over the last six months or so and ask yourself 'Is this truly in balance? Is there something I could improve about the way I have been managing my life?'",
@@ -675,6 +906,9 @@
         "arcana": "The Coins",
         "suit": "This suit, most often named 'Coins' or 'Pentacles', is a symbol for a magical talisman that represented wealth or potential. This suit represents something supportive that is available to you -- whether it be health, some kind of talent, a material or financial resource.",
         "card": "King of Coins",
+        "images": {
+            "RiderWaite": "Pents14.jpg"
+        },
         "brief": "Project all the confidence you can muster, as if you already know your plans are working and your goal is secured.",
         "upright": "Representing the energy of a King, this card in the suit of Coins or Pentacles displays one who has accomplished a lot in life and has arranged his or her affairs so that he has much good to show for it. Possessing a practical genius in the ways of the world, he loves to build things. Because he's so good at deal-making, this character is privy to the biggest deals in town. He has the power to make or break people financially. Although this does not always win him love, it certainly earns him respect. In previous centuries this card referred to the myth of Midas, who loved gold so much that he was cursed so that everything he touched turned to gold. One day his daughter reached out to him and was turned into a golden statue. This story illustrates the downside of letting material security take too much precedence. While the character of this card understands the value of wealth, including the burden it produces, he or she is mature enough to keep things in perspective. Even though the suit of Coins represents the material realm, this King is not just a materialist -- his sovereignty reflects higher values, as well as general welfare and prosperity.",
         "reverse": "The King of Coins reversed suggests that you should shift your focus from control to self-discipline. This may be indicating an insatiable craving that reality on the physical plane cannot satisfy. Such a situation calls for self-discipline; otherwise you will slide into self-doubt and the misuse of your abilities. A true master, a true king, outgrows the need to demonstrate his power unless it is truly needed for the good of the realm. A negative example of such misuse of power was the mythical King Midas, who craved the power to turn everything to gold that he touched, until he accidentally picked up his daughter. There is more to life than control or ownership.",
