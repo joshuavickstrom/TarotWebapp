@@ -4,8 +4,13 @@ import card from '../components/Card.vue';
 import { state } from '../state.js';
 </script>
 <template>
-  <div class="tarot">
-    <card v-for="card in cards" :deck="decks[state.chosenDeck].folder" :front="card.images[decks[state.chosenDeck].folder]"></card>
+  <div class="tarot" style="flex-direction: column;">
+    <div>
+      <h1>3 Card Spread</h1>
+    </div>
+    <div class="row">
+      <card class="col-4" v-for="card in cards" :deck="decks[state.chosenDeck].folder" :front="card.images[decks[state.chosenDeck].folder]"></card>
+    </div>
   </div>
 </template>
 <script>
