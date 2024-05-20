@@ -1,6 +1,6 @@
-# Tarot Project Readme [DRAFT]
+# Tarot Project Readme
 
-Welcome to [PROJECT NAME]! We completed this project while simulating most of the phases of the software development lifecycle. 
+Welcome to Esoteria! We are completing this project while simulating most of the phases of the software development lifecycle. 
 Please refer to the sections below and follow the links to view whatever code or documentation is of interest to you. 
 
 ## Project Full Stack: 
@@ -12,11 +12,12 @@ Please refer to the sections below and follow the links to view whatever code or
 - AI 
 - procreate/canva 
 - APIs [tbd]
+- Firebase
 
 ## Contributers & Roles 
 
-- Lili []
-- Mackenzie []
+- Lili [UI developer]
+- Mackenzie [UI developer]
 - Joshua [SDET & PM]
 
 
@@ -41,8 +42,9 @@ Please refer to the sections below and follow the links to view whatever code or
 
 ## Testing 
 
+- Joshua's automation is [here](https://github.com/joshuavickstrom/EsoteriaTestSuite).
 - View the completed test plan [here]()
-- Also note that the [Git Issues]() include unit test cases. 
+- Also note that the [Git Issues](https://github.com/users/joshuavickstrom/projects/1) include unit test cases. 
 
 ## Deployment 
 
