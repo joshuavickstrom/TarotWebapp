@@ -4,13 +4,21 @@ import card from '../components/Card.vue';
 import { state } from '../state.js';
 </script>
 <template>
-  <div class="tarot" style="flex-direction: column;">
-    <div>
-      <h1>3 Card Spread</h1>
+  <div class="tarot" style="flex-direction: column; padding: 20px; font-family: 'Lemonada', cursive;">
+    <div style="display: flex; flex-direction: column;">
+      <h1 style="align-self: center; color: #5A4252;">3 Card Spread</h1>
+      <p style="align-self: center; font-family: 'Ojuju', cursive;">The 3 card spread is a classic divinatory tool that is great for those beginning their forray into the world of cartomancy. Just like any other spread, the interpretation of a 3 card reading largely depends on the question you've asked. Some popular interpretations for the 3 card spread are past/present/future and mind/body/spirit.</p>
     </div>
     <div class="row">
-      <card class="col-4" v-for="card in cards" :deck="decks[state.chosenDeck].folder" :front="card.images[decks[state.chosenDeck].folder]"></card>
+      <div v-for="card in cards" class="col-4">
+        <card :deck="decks[state.chosenDeck].folder" :front="card.images[decks[state.chosenDeck].folder]"></card>
+        <h5 style="color: #5A4252">{{ card.card }}</h5>
+        <p style="font-family: 'Ojuju', cursive;">
+          {{ card.brief }} {{ card.advice }}
+        </p>
+      </div>
     </div>
+    
   </div>
 </template>
 <script>
