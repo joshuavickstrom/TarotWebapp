@@ -19,6 +19,7 @@ import { state } from '../state.js';
         </p>
       </div>
     </div>
+    <button class="btn glow" @click="RunSpread(state.chosenSpread)">Generate New Spread</button>
     
   </div>
 </template>
