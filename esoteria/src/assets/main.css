@@ -29,6 +29,7 @@ a {
   overflow-y: scroll;
   color:antiquewhite;
   background-color: #a79494;
+  padding-bottom: 150px;
 }
 .main-content::-webkit-scrollbar, body::-webkit-scrollbar {
   display: none;
