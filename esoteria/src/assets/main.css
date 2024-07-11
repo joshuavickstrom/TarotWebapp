@@ -40,6 +40,35 @@ a {
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
 }
+
+.btn {
+  background-color: #D19900;
+  color:antiquewhite;
+  border: solid 2px antiquewhite;
+}
+
+.btn:hover {
+  background-color: antiquewhite !important;
+  border: solid 2px antiquewhite;
+  color: #D19900;
+}
+
+.glow, .glow:hover, .glow:focus
+{
+	text-decoration: none;
+	color: antiquewhite;
+	text-shadow: none;
+	-webkit-transition: 500ms linear 0s;
+	-moz-transition: 500ms linear 0s;
+	-o-transition: 500ms linear 0s;
+	transition: 500ms linear 0s;
+	outline: 0 none;
+}
+.glow:hover, .glow:focus
+{
+	color: #fff;
+	text-shadow: -1px 1px 8px #ffc, 1px -1px 8px #fff;
+}
 @media (hover: hover) {
   a:hover {
     color: #D19900;
