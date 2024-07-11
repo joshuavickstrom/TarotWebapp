@@ -9,9 +9,12 @@ import MoonIcon from './MoonIcon.vue'
   <header>
       <div style="display: flex;">
         <h1 id="NavHeaderTitle" class="nav-header" style="display: flex; justify-content: center; margin-left: 70px;">Esoteria
-          <RouterLink id="NavHeaderMoon" class="glow" style="padding-left:30px; margin-top:-20px; font-size: 30pt;" to="/calendar">      
+          <!-- <RouterLink id="NavHeaderMoon" class="glow" style="padding-left:30px; margin-top:-20px; font-size: 30pt;" to="/calendar">      
             <MoonIcon></MoonIcon>
-          </RouterLink>
+          </RouterLink> -->
+          <div id="NavHeaderMoon" class="glow" style="padding-left:30px; margin-top:-20px; font-size: 30pt;">      
+            <MoonIcon></MoonIcon>
+          </div>
         </h1>
       </div>
       <!-- <h1 class="nav-header" style="margin-right: 30px !important; z-index: 3;">{{ msg }}</h1>
@@ -24,9 +27,9 @@ import MoonIcon from './MoonIcon.vue'
       <nav>
           <RouterLink id="NavLinkHome" class="glow" to="/">Daily Reflection</RouterLink>
           <RouterLink id="NavLinkTarot" class="glow" to="/tarot">Tarot Pull</RouterLink>
-          <RouterLink id="NavLinkCalendar" class="glow" to="/calendar">Moon Calendar</RouterLink>
-          <RouterLink id="NavLinkMobileBuyDeck" class="nav-mobile glow" to="/buyadeck">&#x1F0E9;</RouterLink>
-          <RouterLink id="NavLinkBuyDeck" class="nav-right glow" to="/buyadeck"><span class="card-uni">&#x1F0E9;</span> Buy your own deck</RouterLink>
+          <!-- <RouterLink id="NavLinkCalendar" class="glow" to="/calendar">Moon Calendar</RouterLink> -->
+          <!-- <RouterLink id="NavLinkMobileBuyDeck" class="nav-mobile glow" to="/buyadeck">&#x1F0E9;</RouterLink>
+          <RouterLink id="NavLinkBuyDeck" class="nav-right glow" to="/buyadeck"><span class="card-uni">&#x1F0E9;</span> Buy your own deck</RouterLink> -->
         </nav>
     </header>
 </template>
